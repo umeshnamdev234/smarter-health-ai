@@ -1,0 +1,53 @@
+# Smarter Health AI — backend stack (API + PostgreSQL).
+# MedGemma runs in Ollama on your machine (fast, uses your GPU); the frontend runs with `npm run dev`.
+#
+#   cp .env.example .env        # optional: change passwords / model settings
+#   docker compose up -d --build
+#
+# API: http://localhost:8000   Docs: http://localhost:8000/docs
+
+name: smarter-health
+
+services:
+  db:
+    image: postgres:16-alpine
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: smarter_health
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-change-me-local-only}
+      POSTGRES_DB: smarter_health
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "127.0.0.1:${DB_PORT:-5433}:5432"   # for psql / pgAdmin from your machine
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U smarter_health -d smarter_health"]
+      interval: 5s
+      timeout: 3s
+      retries: 20
+
+  backend:
+    build: ./backend
+    restart: unless-stopped
+    depends_on:
+      db:
+        condition: service_healthy
+    environment:
+      # Use the bundled Postgres by default. To use another server (e.g. minikube),
+      # set DATABASE_URL in .env, e.g. postgresql://user:pass@host.docker.internal:15432/smarter_health
+      DATABASE_URL: ${DATABASE_URL:-postgresql://smarter_health:${POSTGRES_PASSWORD:-change-me-local-only}@db:5432/smarter_health}
+      # Ollama running on the host machine
+      LLM_BASE_URL: ${LLM_BASE_URL:-http://host.docker.internal:11434/v1}
+      LLM_MODEL: ${LLM_MODEL:-medgemma}
+      LLM_API_KEY: ${LLM_API_KEY:-}
+      CORS_ORIGINS: ${CORS_ORIGINS:-http://localhost:3100,http://127.0.0.1:3100}
+      APP_API_KEY: ${APP_API_KEY:-}
+      ADMIN_API_KEY: ${ADMIN_API_KEY:-}
+      SEED_SAMPLE_DOCTORS: ${SEED_SAMPLE_DOCTORS:-true}
+    extra_hosts:
+      - "host.docker.internal:host-gateway"   # lets Linux reach Ollama on the host too
+    ports:
+      - "127.0.0.1:${API_PORT:-8000}:8000"
+
+volumes:
+  pgdata:

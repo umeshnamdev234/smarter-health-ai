@@ -1,0 +1,12 @@
+# secrets and local state never go into the image
+.env
+.env.*
+!.env.example
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.tunnel.log
+tests/
+scripts/db-tunnel.sh
+run.sh

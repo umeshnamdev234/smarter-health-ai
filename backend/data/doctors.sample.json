@@ -1,0 +1,7286 @@
+{
+ "_note": "FICTIONAL sample data for development only",
+ "doctors": [
+  {
+   "id": "D001",
+   "name": "Dr. Ananya Mishra",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Internal Medicine",
+    "Preventive Care"
+   ],
+   "conditions": [
+    "cold and cough",
+    "fever",
+    "diabetes",
+    "body pain"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 6,
+   "languages": [
+    "English",
+    "Tamil",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Riverside Medical Centre",
+   "rating": 4.0,
+   "review_count": 631,
+   "fee": 400,
+   "currency": "INR",
+   "available_days": [
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D002",
+   "name": "Dr. Aarav Deshpande",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Family Medicine",
+    "Preventive Care"
+   ],
+   "conditions": [
+    "viral infection",
+    "fatigue",
+    "fever",
+    "diabetes"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 11,
+   "languages": [
+    "English",
+    "Telugu",
+    "Hindi"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Harmony Health Centre",
+   "rating": 4.1,
+   "review_count": 59,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Thu",
+    "Fri"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D003",
+   "name": "Dr. Lakshmi Mehta",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Preventive Care"
+   ],
+   "conditions": [
+    "fever",
+    "cold and cough",
+    "viral infection",
+    "fatigue"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 22,
+   "languages": [
+    "English",
+    "Tamil"
+   ],
+   "city": "Chennai",
+   "hospital": "Riverside Hospital",
+   "rating": 4.2,
+   "review_count": 665,
+   "fee": 1300,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D004",
+   "name": "Dr. Vikram Saxena",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Preventive Care"
+   ],
+   "conditions": [
+    "viral infection",
+    "body pain",
+    "hypertension",
+    "diabetes",
+    "cold and cough",
+    "fever"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 23,
+   "languages": [
+    "English",
+    "Tamil",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Lotus Clinic",
+   "rating": 4.4,
+   "review_count": 82,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D005",
+   "name": "Dr. Pooja Mishra",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Preventive Care",
+    "Family Medicine"
+   ],
+   "conditions": [
+    "hypertension",
+    "fatigue",
+    "viral infection",
+    "diabetes",
+    "cold and cough",
+    "body pain"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 7,
+   "languages": [
+    "English",
+    "Kannada"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Riverside Medical Centre",
+   "rating": 4.4,
+   "review_count": 826,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Thu",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D006",
+   "name": "Dr. Nandini Sharma",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Preventive Care"
+   ],
+   "conditions": [
+    "body pain",
+    "fatigue",
+    "cold and cough",
+    "fever",
+    "viral infection",
+    "diabetes"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 11,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Lotus Clinic",
+   "rating": 4.7,
+   "review_count": 795,
+   "fee": 600,
+   "currency": "INR",
+   "available_days": [
+    "Wed",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D007",
+   "name": "Dr. Karthik Kulkarni",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Internal Medicine",
+    "Preventive Care"
+   ],
+   "conditions": [
+    "fatigue",
+    "hypertension",
+    "fever",
+    "diabetes",
+    "viral infection",
+    "body pain"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 22,
+   "languages": [
+    "English",
+    "Telugu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Sunrise Health Centre",
+   "rating": 4.8,
+   "review_count": 102,
+   "fee": 1800,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D008",
+   "name": "Dr. Siddharth Gupta",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Internal Medicine",
+    "Preventive Care"
+   ],
+   "conditions": [
+    "fatigue",
+    "hypertension",
+    "body pain",
+    "cold and cough",
+    "diabetes",
+    "viral infection"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 20,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Delhi",
+   "hospital": "Sunrise Multispeciality Hospital",
+   "rating": 4.3,
+   "review_count": 617,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D009",
+   "name": "Dr. Anjali Iyer",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Family Medicine"
+   ],
+   "conditions": [
+    "hypertension",
+    "viral infection",
+    "diabetes",
+    "cold and cough",
+    "fatigue",
+    "body pain"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 30,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Pune",
+   "hospital": "Bluebell Medical Centre",
+   "rating": 4.2,
+   "review_count": 689,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D010",
+   "name": "Dr. Priya Khan",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Internal Medicine",
+    "Preventive Care"
+   ],
+   "conditions": [
+    "viral infection",
+    "diabetes",
+    "hypertension",
+    "body pain"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 6,
+   "languages": [
+    "English",
+    "Tamil",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Northstar Medical Centre",
+   "rating": 4.6,
+   "review_count": 92,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D011",
+   "name": "Dr. Pooja Deshpande",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Family Medicine",
+    "Preventive Care"
+   ],
+   "conditions": [
+    "body pain",
+    "hypertension",
+    "fever",
+    "viral infection"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 32,
+   "languages": [
+    "English",
+    "Marathi",
+    "Hindi"
+   ],
+   "city": "Pune",
+   "hospital": "Silver Oak Hospital",
+   "rating": 4.3,
+   "review_count": 728,
+   "fee": 1800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D012",
+   "name": "Dr. Manish Patel",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Preventive Care"
+   ],
+   "conditions": [
+    "diabetes",
+    "body pain",
+    "viral infection",
+    "fever",
+    "fatigue"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 4,
+   "languages": [
+    "English",
+    "Telugu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Riverside Health Centre",
+   "rating": 3.9,
+   "review_count": 897,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D013",
+   "name": "Dr. Deepa Rao",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Internal Medicine",
+    "Family Medicine"
+   ],
+   "conditions": [
+    "fatigue",
+    "hypertension",
+    "viral infection",
+    "body pain"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 21,
+   "languages": [
+    "English",
+    "Hindi",
+    "Telugu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Lotus Hospital",
+   "rating": 4.5,
+   "review_count": 591,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D014",
+   "name": "Dr. Vikram Menon",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Family Medicine",
+    "Internal Medicine"
+   ],
+   "conditions": [
+    "body pain",
+    "diabetes",
+    "fatigue",
+    "fever",
+    "cold and cough"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 31,
+   "languages": [
+    "English",
+    "Hindi",
+    "Kannada",
+    "Tamil"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Silver Oak Multispeciality Hospital",
+   "rating": 4.8,
+   "review_count": 775,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D015",
+   "name": "Dr. Sanjay Chatterjee",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Internal Medicine",
+    "Preventive Care"
+   ],
+   "conditions": [
+    "hypertension",
+    "fatigue",
+    "fever",
+    "diabetes",
+    "viral infection",
+    "body pain"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 11,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Northstar Health Centre",
+   "rating": 4.5,
+   "review_count": 589,
+   "fee": 400,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D016",
+   "name": "Dr. Nandini Kulkarni",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Internal Medicine",
+    "Preventive Care"
+   ],
+   "conditions": [
+    "fatigue",
+    "fever",
+    "body pain",
+    "viral infection",
+    "diabetes"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 14,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Harmony Health Centre",
+   "rating": 4.6,
+   "review_count": 431,
+   "fee": 600,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D017",
+   "name": "Dr. Anjali Verma",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Family Medicine"
+   ],
+   "conditions": [
+    "body pain",
+    "cold and cough",
+    "fever",
+    "hypertension"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 32,
+   "languages": [
+    "English",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Sunrise Medical Centre",
+   "rating": 4.8,
+   "review_count": 486,
+   "fee": 1300,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D018",
+   "name": "Dr. Vikram Gupta",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Preventive Care",
+    "Family Medicine"
+   ],
+   "conditions": [
+    "body pain",
+    "diabetes",
+    "fatigue",
+    "fever",
+    "hypertension",
+    "viral infection"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 11,
+   "languages": [
+    "English",
+    "Tamil"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Silver Oak Multispeciality Hospital",
+   "rating": 4.0,
+   "review_count": 459,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D019",
+   "name": "Dr. Rohan Shetty",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Internal Medicine",
+    "Preventive Care"
+   ],
+   "conditions": [
+    "hypertension",
+    "fever",
+    "fatigue",
+    "diabetes",
+    "body pain"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 11,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Meadow Clinic",
+   "rating": 4.4,
+   "review_count": 349,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D020",
+   "name": "Dr. Isha Saxena",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Family Medicine",
+    "Internal Medicine"
+   ],
+   "conditions": [
+    "fatigue",
+    "viral infection",
+    "hypertension",
+    "body pain",
+    "cold and cough"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 26,
+   "languages": [
+    "English",
+    "Telugu",
+    "Tamil"
+   ],
+   "city": "Chennai",
+   "hospital": "Meadow Hospital",
+   "rating": 4.7,
+   "review_count": 830,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Wed",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D021",
+   "name": "Dr. Pooja Naidu",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Internal Medicine",
+    "Preventive Care"
+   ],
+   "conditions": [
+    "fever",
+    "body pain",
+    "viral infection",
+    "hypertension"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 27,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Bluebell Health Centre",
+   "rating": 4.2,
+   "review_count": 728,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D022",
+   "name": "Dr. Deepa Bhat",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Preventive Care"
+   ],
+   "conditions": [
+    "body pain",
+    "fever",
+    "hypertension",
+    "viral infection"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 25,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Northstar Health Centre",
+   "rating": 4.7,
+   "review_count": 531,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D023",
+   "name": "Dr. Deepa Chatterjee",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Family Medicine"
+   ],
+   "conditions": [
+    "fever",
+    "cold and cough",
+    "fatigue",
+    "viral infection",
+    "hypertension"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 27,
+   "languages": [
+    "English",
+    "Hindi",
+    "Kannada"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Green Valley Medical Centre",
+   "rating": 4.3,
+   "review_count": 725,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D024",
+   "name": "Dr. Neha Verma",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Preventive Care",
+    "Internal Medicine"
+   ],
+   "conditions": [
+    "hypertension",
+    "body pain",
+    "fever",
+    "fatigue",
+    "viral infection",
+    "cold and cough"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 4,
+   "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+   ],
+   "city": "Delhi",
+   "hospital": "Sunrise Clinic",
+   "rating": 4.2,
+   "review_count": 44,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D025",
+   "name": "Dr. Ananya Khan",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Internal Medicine"
+   ],
+   "conditions": [
+    "hypertension",
+    "viral infection",
+    "body pain",
+    "cold and cough",
+    "fever",
+    "diabetes"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 20,
+   "languages": [
+    "English",
+    "Hindi",
+    "Telugu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Northstar Clinic",
+   "rating": 4.3,
+   "review_count": 403,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D026",
+   "name": "Dr. Vikram Kapoor",
+   "specialty": "General Medicine",
+   "sub_specialties": [
+    "Internal Medicine"
+   ],
+   "conditions": [
+    "viral infection",
+    "fever",
+    "diabetes",
+    "body pain"
+   ],
+   "qualifications": "MBBS, MD (Medicine)",
+   "experience_years": 10,
+   "languages": [
+    "English",
+    "Kannada"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Northstar Multispeciality Hospital",
+   "rating": 4.4,
+   "review_count": 238,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D027",
+   "name": "Dr. Ananya Joshi",
+   "specialty": "Cardiology",
+   "sub_specialties": [
+    "Heart Failure",
+    "Interventional Cardiology"
+   ],
+   "conditions": [
+    "palpitations",
+    "high cholesterol",
+    "hypertension",
+    "chest pain"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 21,
+   "languages": [
+    "English",
+    "Marathi",
+    "Hindi"
+   ],
+   "city": "Pune",
+   "hospital": "Harmony Health Centre",
+   "rating": 4.4,
+   "review_count": 394,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D028",
+   "name": "Dr. Revathi Shetty",
+   "specialty": "Cardiology",
+   "sub_specialties": [
+    "Heart Failure"
+   ],
+   "conditions": [
+    "high cholesterol",
+    "palpitations",
+    "heart attack",
+    "arrhythmia"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 31,
+   "languages": [
+    "English",
+    "Telugu",
+    "Tamil"
+   ],
+   "city": "Chennai",
+   "hospital": "Harmony Medical Centre",
+   "rating": 4.8,
+   "review_count": 103,
+   "fee": 1100,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D029",
+   "name": "Dr. Ritu Nair",
+   "specialty": "Cardiology",
+   "sub_specialties": [
+    "Heart Failure",
+    "Electrophysiology"
+   ],
+   "conditions": [
+    "palpitations",
+    "high cholesterol",
+    "heart attack",
+    "chest pain",
+    "heart failure"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 8,
+   "languages": [
+    "English",
+    "Kannada"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Sunrise Hospital",
+   "rating": 4.3,
+   "review_count": 791,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D030",
+   "name": "Dr. Pooja Joshi",
+   "specialty": "Cardiology",
+   "sub_specialties": [
+    "Heart Failure",
+    "Electrophysiology"
+   ],
+   "conditions": [
+    "high cholesterol",
+    "palpitations",
+    "heart attack",
+    "heart failure",
+    "arrhythmia"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 25,
+   "languages": [
+    "English",
+    "Punjabi",
+    "Hindi"
+   ],
+   "city": "Delhi",
+   "hospital": "Silver Oak Medical Centre",
+   "rating": 4.1,
+   "review_count": 212,
+   "fee": 1300,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D031",
+   "name": "Dr. Divya Mishra",
+   "specialty": "Cardiology",
+   "sub_specialties": [
+    "Interventional Cardiology",
+    "Electrophysiology"
+   ],
+   "conditions": [
+    "hypertension",
+    "heart attack",
+    "heart failure",
+    "high cholesterol",
+    "chest pain"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 18,
+   "languages": [
+    "English",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Lotus Multispeciality Hospital",
+   "rating": 4.4,
+   "review_count": 729,
+   "fee": 600,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D032",
+   "name": "Dr. Nikhil Chatterjee",
+   "specialty": "Cardiology",
+   "sub_specialties": [
+    "Interventional Cardiology"
+   ],
+   "conditions": [
+    "arrhythmia",
+    "chest pain",
+    "palpitations",
+    "high cholesterol",
+    "heart failure"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 4,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Riverside Medical Centre",
+   "rating": 3.9,
+   "review_count": 797,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D033",
+   "name": "Dr. Gurleen Joshi",
+   "specialty": "Cardiology",
+   "sub_specialties": [
+    "Electrophysiology"
+   ],
+   "conditions": [
+    "chest pain",
+    "hypertension",
+    "high cholesterol",
+    "heart attack",
+    "arrhythmia",
+    "heart failure"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 30,
+   "languages": [
+    "English",
+    "Kannada"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Green Valley Health Centre",
+   "rating": 4.2,
+   "review_count": 17,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D034",
+   "name": "Dr. Revathi Iyer",
+   "specialty": "Cardiology",
+   "sub_specialties": [
+    "Heart Failure"
+   ],
+   "conditions": [
+    "palpitations",
+    "high cholesterol",
+    "hypertension",
+    "arrhythmia",
+    "chest pain",
+    "heart attack"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 25,
+   "languages": [
+    "English",
+    "Kannada",
+    "Hindi",
+    "Tamil"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Riverside Multispeciality Hospital",
+   "rating": 4.2,
+   "review_count": 329,
+   "fee": 1100,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D035",
+   "name": "Dr. Gurleen Mishra",
+   "specialty": "Cardiology",
+   "sub_specialties": [
+    "Electrophysiology",
+    "Heart Failure"
+   ],
+   "conditions": [
+    "chest pain",
+    "hypertension",
+    "palpitations",
+    "heart failure"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 4,
+   "languages": [
+    "English",
+    "Hindi",
+    "Telugu",
+    "Urdu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Northstar Health Centre",
+   "rating": 4.4,
+   "review_count": 299,
+   "fee": 600,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D036",
+   "name": "Dr. Siddharth Rao",
+   "specialty": "Cardiology",
+   "sub_specialties": [
+    "Electrophysiology",
+    "Heart Failure"
+   ],
+   "conditions": [
+    "high cholesterol",
+    "arrhythmia",
+    "palpitations",
+    "chest pain",
+    "hypertension"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 6,
+   "languages": [
+    "English",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Silver Oak Clinic",
+   "rating": 4.0,
+   "review_count": 806,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D037",
+   "name": "Dr. Lakshmi Saxena",
+   "specialty": "Cardiology",
+   "sub_specialties": [
+    "Electrophysiology",
+    "Heart Failure"
+   ],
+   "conditions": [
+    "hypertension",
+    "heart attack",
+    "palpitations",
+    "heart failure"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 19,
+   "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Riverside Multispeciality Hospital",
+   "rating": 4.8,
+   "review_count": 638,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D038",
+   "name": "Dr. Kavya Bhat",
+   "specialty": "Cardiology",
+   "sub_specialties": [
+    "Electrophysiology"
+   ],
+   "conditions": [
+    "arrhythmia",
+    "high cholesterol",
+    "heart attack",
+    "palpitations"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 32,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Northstar Medical Centre",
+   "rating": 4.5,
+   "review_count": 163,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D039",
+   "name": "Dr. Harpreet Rao",
+   "specialty": "Cardiology",
+   "sub_specialties": [
+    "Interventional Cardiology",
+    "Heart Failure"
+   ],
+   "conditions": [
+    "heart attack",
+    "palpitations",
+    "high cholesterol",
+    "arrhythmia",
+    "chest pain",
+    "hypertension"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 30,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Harmony Health Centre",
+   "rating": 4.7,
+   "review_count": 401,
+   "fee": 1800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D040",
+   "name": "Dr. Manish Mishra",
+   "specialty": "Cardiology",
+   "sub_specialties": [
+    "Electrophysiology",
+    "Heart Failure"
+   ],
+   "conditions": [
+    "high cholesterol",
+    "heart failure",
+    "hypertension",
+    "arrhythmia",
+    "chest pain"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 4,
+   "languages": [
+    "English",
+    "Punjabi"
+   ],
+   "city": "Delhi",
+   "hospital": "Riverside Hospital",
+   "rating": 3.9,
+   "review_count": 482,
+   "fee": 400,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D041",
+   "name": "Dr. Zoya Kapoor",
+   "specialty": "Cardiology",
+   "sub_specialties": [
+    "Heart Failure"
+   ],
+   "conditions": [
+    "heart failure",
+    "palpitations",
+    "arrhythmia",
+    "heart attack",
+    "high cholesterol",
+    "hypertension"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 13,
+   "languages": [
+    "English",
+    "Kannada",
+    "Tamil",
+    "Hindi"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Silver Oak Medical Centre",
+   "rating": 4.5,
+   "review_count": 459,
+   "fee": 500,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D042",
+   "name": "Dr. Priya Joshi",
+   "specialty": "Orthopedics",
+   "sub_specialties": [
+    "Spine Surgery",
+    "Sports Medicine"
+   ],
+   "conditions": [
+    "knee pain",
+    "slip disc",
+    "arthritis",
+    "sports injury"
+   ],
+   "qualifications": "MBBS, MS (Ortho)",
+   "experience_years": 13,
+   "languages": [
+    "English",
+    "Marathi"
+   ],
+   "city": "Pune",
+   "hospital": "Riverside Health Centre",
+   "rating": 4.6,
+   "review_count": 649,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D043",
+   "name": "Dr. Revathi Joshi",
+   "specialty": "Orthopedics",
+   "sub_specialties": [
+    "Joint Replacement"
+   ],
+   "conditions": [
+    "fracture",
+    "slip disc",
+    "sports injury",
+    "arthritis",
+    "shoulder pain"
+   ],
+   "qualifications": "MBBS, MS (Ortho)",
+   "experience_years": 3,
+   "languages": [
+    "English",
+    "Telugu",
+    "Tamil"
+   ],
+   "city": "Chennai",
+   "hospital": "Sunrise Hospital",
+   "rating": 4.5,
+   "review_count": 124,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D044",
+   "name": "Dr. Zoya Gupta",
+   "specialty": "Orthopedics",
+   "sub_specialties": [
+    "Sports Medicine"
+   ],
+   "conditions": [
+    "sports injury",
+    "shoulder pain",
+    "back pain",
+    "arthritis",
+    "knee pain",
+    "slip disc"
+   ],
+   "qualifications": "MBBS, MS (Ortho)",
+   "experience_years": 24,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Sunrise Health Centre",
+   "rating": 4.2,
+   "review_count": 788,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D045",
+   "name": "Dr. Lakshmi Mishra",
+   "specialty": "Orthopedics",
+   "sub_specialties": [
+    "Joint Replacement"
+   ],
+   "conditions": [
+    "fracture",
+    "shoulder pain",
+    "arthritis",
+    "knee pain",
+    "back pain"
+   ],
+   "qualifications": "MBBS, MS (Ortho)",
+   "experience_years": 4,
+   "languages": [
+    "English",
+    "Punjabi"
+   ],
+   "city": "Delhi",
+   "hospital": "Meadow Health Centre",
+   "rating": 4.6,
+   "review_count": 865,
+   "fee": 600,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D046",
+   "name": "Dr. Aditya Naidu",
+   "specialty": "Orthopedics",
+   "sub_specialties": [
+    "Sports Medicine",
+    "Spine Surgery"
+   ],
+   "conditions": [
+    "sports injury",
+    "arthritis",
+    "back pain",
+    "fracture"
+   ],
+   "qualifications": "MBBS, MS (Ortho)",
+   "experience_years": 7,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Pune",
+   "hospital": "Harmony Clinic",
+   "rating": 4.3,
+   "review_count": 857,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D047",
+   "name": "Dr. Aditya Kapoor",
+   "specialty": "Orthopedics",
+   "sub_specialties": [
+    "Sports Medicine"
+   ],
+   "conditions": [
+    "shoulder pain",
+    "fracture",
+    "arthritis",
+    "back pain",
+    "slip disc"
+   ],
+   "qualifications": "MBBS, MS (Ortho)",
+   "experience_years": 13,
+   "languages": [
+    "English",
+    "Telugu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Silver Oak Hospital",
+   "rating": 4.0,
+   "review_count": 255,
+   "fee": 600,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D048",
+   "name": "Dr. Ritu Saxena",
+   "specialty": "Orthopedics",
+   "sub_specialties": [
+    "Spine Surgery",
+    "Joint Replacement"
+   ],
+   "conditions": [
+    "fracture",
+    "knee pain",
+    "arthritis",
+    "slip disc",
+    "back pain",
+    "shoulder pain"
+   ],
+   "qualifications": "MBBS, MS (Ortho)",
+   "experience_years": 6,
+   "languages": [
+    "English",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Meadow Clinic",
+   "rating": 3.9,
+   "review_count": 297,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Thu",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D049",
+   "name": "Dr. Ananya Patel",
+   "specialty": "Orthopedics",
+   "sub_specialties": [
+    "Joint Replacement",
+    "Sports Medicine"
+   ],
+   "conditions": [
+    "knee pain",
+    "back pain",
+    "slip disc",
+    "sports injury",
+    "fracture",
+    "shoulder pain"
+   ],
+   "qualifications": "MBBS, MS (Ortho)",
+   "experience_years": 23,
+   "languages": [
+    "English",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Green Valley Health Centre",
+   "rating": 4.0,
+   "review_count": 894,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D050",
+   "name": "Dr. Aarav Singh",
+   "specialty": "Orthopedics",
+   "sub_specialties": [
+    "Sports Medicine"
+   ],
+   "conditions": [
+    "back pain",
+    "knee pain",
+    "fracture",
+    "sports injury",
+    "arthritis"
+   ],
+   "qualifications": "MBBS, MS (Ortho)",
+   "experience_years": 7,
+   "languages": [
+    "English",
+    "Marathi",
+    "Hindi"
+   ],
+   "city": "Pune",
+   "hospital": "Northstar Hospital",
+   "rating": 4.5,
+   "review_count": 540,
+   "fee": 500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D051",
+   "name": "Dr. Amit Khan",
+   "specialty": "Orthopedics",
+   "sub_specialties": [
+    "Sports Medicine",
+    "Joint Replacement"
+   ],
+   "conditions": [
+    "shoulder pain",
+    "arthritis",
+    "back pain",
+    "slip disc",
+    "knee pain"
+   ],
+   "qualifications": "MBBS, MS (Ortho)",
+   "experience_years": 4,
+   "languages": [
+    "English",
+    "Marathi"
+   ],
+   "city": "Pune",
+   "hospital": "Green Valley Clinic",
+   "rating": 4.3,
+   "review_count": 614,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D052",
+   "name": "Dr. Nandini Mishra",
+   "specialty": "Orthopedics",
+   "sub_specialties": [
+    "Spine Surgery"
+   ],
+   "conditions": [
+    "knee pain",
+    "arthritis",
+    "fracture",
+    "shoulder pain",
+    "sports injury"
+   ],
+   "qualifications": "MBBS, MS (Ortho)",
+   "experience_years": 6,
+   "languages": [
+    "English",
+    "Tamil",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Bluebell Clinic",
+   "rating": 4.4,
+   "review_count": 398,
+   "fee": 600,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D053",
+   "name": "Dr. Rahul Agarwal",
+   "specialty": "Orthopedics",
+   "sub_specialties": [
+    "Sports Medicine"
+   ],
+   "conditions": [
+    "slip disc",
+    "fracture",
+    "back pain",
+    "arthritis",
+    "knee pain",
+    "shoulder pain"
+   ],
+   "qualifications": "MBBS, MS (Ortho)",
+   "experience_years": 28,
+   "languages": [
+    "English",
+    "Kannada",
+    "Hindi",
+    "Tamil"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Harmony Multispeciality Hospital",
+   "rating": 4.5,
+   "review_count": 232,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D054",
+   "name": "Dr. Nandini Saxena",
+   "specialty": "Orthopedics",
+   "sub_specialties": [
+    "Sports Medicine"
+   ],
+   "conditions": [
+    "sports injury",
+    "shoulder pain",
+    "fracture",
+    "back pain",
+    "arthritis",
+    "knee pain"
+   ],
+   "qualifications": "MBBS, MS (Ortho)",
+   "experience_years": 16,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Harmony Multispeciality Hospital",
+   "rating": 4.1,
+   "review_count": 161,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D055",
+   "name": "Dr. Farhan Verma",
+   "specialty": "Orthopedics",
+   "sub_specialties": [
+    "Spine Surgery",
+    "Joint Replacement"
+   ],
+   "conditions": [
+    "fracture",
+    "shoulder pain",
+    "sports injury",
+    "back pain",
+    "arthritis"
+   ],
+   "qualifications": "MBBS, MS (Ortho)",
+   "experience_years": 9,
+   "languages": [
+    "English",
+    "Telugu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Cedar Multispeciality Hospital",
+   "rating": 4.4,
+   "review_count": 293,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D056",
+   "name": "Dr. Gurleen Reddy",
+   "specialty": "Orthopedics",
+   "sub_specialties": [
+    "Sports Medicine",
+    "Spine Surgery"
+   ],
+   "conditions": [
+    "shoulder pain",
+    "fracture",
+    "back pain",
+    "knee pain",
+    "arthritis",
+    "slip disc"
+   ],
+   "qualifications": "MBBS, MS (Ortho)",
+   "experience_years": 14,
+   "languages": [
+    "English",
+    "Marathi"
+   ],
+   "city": "Pune",
+   "hospital": "Silver Oak Medical Centre",
+   "rating": 4.6,
+   "review_count": 797,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D057",
+   "name": "Dr. Imran Shetty",
+   "specialty": "Obstetrics & Gynecology",
+   "sub_specialties": [
+    "Gynec Oncology"
+   ],
+   "conditions": [
+    "menopause",
+    "pcos",
+    "pregnancy",
+    "irregular periods",
+    "pelvic pain",
+    "infertility"
+   ],
+   "qualifications": "MBBS, MS (OBG)",
+   "experience_years": 15,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Riverside Clinic",
+   "rating": 4.4,
+   "review_count": 602,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D058",
+   "name": "Dr. Lakshmi Iyer",
+   "specialty": "Obstetrics & Gynecology",
+   "sub_specialties": [
+    "High-risk Pregnancy",
+    "Gynec Oncology"
+   ],
+   "conditions": [
+    "infertility",
+    "pelvic pain",
+    "pregnancy",
+    "irregular periods",
+    "pcos"
+   ],
+   "qualifications": "MBBS, MS (OBG)",
+   "experience_years": 17,
+   "languages": [
+    "English",
+    "Hindi",
+    "Telugu",
+    "Urdu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Green Valley Multispeciality Hospital",
+   "rating": 4.4,
+   "review_count": 131,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D059",
+   "name": "Dr. Meera Kapoor",
+   "specialty": "Obstetrics & Gynecology",
+   "sub_specialties": [
+    "High-risk Pregnancy"
+   ],
+   "conditions": [
+    "pelvic pain",
+    "menopause",
+    "infertility",
+    "pcos",
+    "irregular periods",
+    "pregnancy"
+   ],
+   "qualifications": "MBBS, MS (OBG)",
+   "experience_years": 8,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Riverside Hospital",
+   "rating": 4.2,
+   "review_count": 325,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Fri"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D060",
+   "name": "Dr. Priya Singh",
+   "specialty": "Obstetrics & Gynecology",
+   "sub_specialties": [
+    "High-risk Pregnancy",
+    "Gynec Oncology"
+   ],
+   "conditions": [
+    "infertility",
+    "menopause",
+    "pelvic pain",
+    "irregular periods",
+    "pregnancy",
+    "pcos"
+   ],
+   "qualifications": "MBBS, MS (OBG)",
+   "experience_years": 4,
+   "languages": [
+    "English",
+    "Punjabi"
+   ],
+   "city": "Delhi",
+   "hospital": "Cedar Hospital",
+   "rating": 4.2,
+   "review_count": 78,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D061",
+   "name": "Dr. Pooja Shetty",
+   "specialty": "Obstetrics & Gynecology",
+   "sub_specialties": [
+    "Infertility",
+    "High-risk Pregnancy"
+   ],
+   "conditions": [
+    "pcos",
+    "menopause",
+    "pelvic pain",
+    "irregular periods",
+    "infertility"
+   ],
+   "qualifications": "MBBS, MS (OBG)",
+   "experience_years": 4,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Riverside Clinic",
+   "rating": 3.9,
+   "review_count": 709,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D062",
+   "name": "Dr. Suresh Joshi",
+   "specialty": "Obstetrics & Gynecology",
+   "sub_specialties": [
+    "High-risk Pregnancy",
+    "Gynec Oncology"
+   ],
+   "conditions": [
+    "infertility",
+    "pelvic pain",
+    "pcos",
+    "pregnancy",
+    "menopause"
+   ],
+   "qualifications": "MBBS, MS (OBG)",
+   "experience_years": 7,
+   "languages": [
+    "English",
+    "Telugu",
+    "Tamil"
+   ],
+   "city": "Chennai",
+   "hospital": "Harmony Clinic",
+   "rating": 4.0,
+   "review_count": 234,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D063",
+   "name": "Dr. Imran Mishra",
+   "specialty": "Obstetrics & Gynecology",
+   "sub_specialties": [
+    "Gynec Oncology"
+   ],
+   "conditions": [
+    "infertility",
+    "irregular periods",
+    "pelvic pain",
+    "pregnancy",
+    "pcos"
+   ],
+   "qualifications": "MBBS, MS (OBG)",
+   "experience_years": 19,
+   "languages": [
+    "English",
+    "Marathi"
+   ],
+   "city": "Pune",
+   "hospital": "Northstar Multispeciality Hospital",
+   "rating": 4.3,
+   "review_count": 707,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D064",
+   "name": "Dr. Amit Nair",
+   "specialty": "Obstetrics & Gynecology",
+   "sub_specialties": [
+    "Gynec Oncology",
+    "Infertility"
+   ],
+   "conditions": [
+    "pcos",
+    "pelvic pain",
+    "infertility",
+    "pregnancy",
+    "menopause"
+   ],
+   "qualifications": "MBBS, MS (OBG)",
+   "experience_years": 28,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Lotus Hospital",
+   "rating": 4.8,
+   "review_count": 582,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D065",
+   "name": "Dr. Gurleen Iyer",
+   "specialty": "Obstetrics & Gynecology",
+   "sub_specialties": [
+    "Infertility"
+   ],
+   "conditions": [
+    "pregnancy",
+    "pelvic pain",
+    "menopause",
+    "irregular periods",
+    "pcos"
+   ],
+   "qualifications": "MBBS, MS (OBG)",
+   "experience_years": 7,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Riverside Clinic",
+   "rating": 4.0,
+   "review_count": 341,
+   "fee": 500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D066",
+   "name": "Dr. Rahul Shetty",
+   "specialty": "Obstetrics & Gynecology",
+   "sub_specialties": [
+    "Infertility",
+    "High-risk Pregnancy"
+   ],
+   "conditions": [
+    "pregnancy",
+    "pcos",
+    "irregular periods",
+    "menopause"
+   ],
+   "qualifications": "MBBS, MS (OBG)",
+   "experience_years": 25,
+   "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+   ],
+   "city": "Delhi",
+   "hospital": "Sunrise Clinic",
+   "rating": 4.1,
+   "review_count": 259,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D067",
+   "name": "Dr. Aarav Saxena",
+   "specialty": "Obstetrics & Gynecology",
+   "sub_specialties": [
+    "High-risk Pregnancy",
+    "Infertility"
+   ],
+   "conditions": [
+    "menopause",
+    "pregnancy",
+    "pcos",
+    "infertility"
+   ],
+   "qualifications": "MBBS, MS (OBG)",
+   "experience_years": 16,
+   "languages": [
+    "English",
+    "Tamil",
+    "Kannada",
+    "Hindi"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Northstar Multispeciality Hospital",
+   "rating": 4.5,
+   "review_count": 397,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D068",
+   "name": "Dr. Arjun Mehta",
+   "specialty": "Obstetrics & Gynecology",
+   "sub_specialties": [
+    "High-risk Pregnancy",
+    "Gynec Oncology"
+   ],
+   "conditions": [
+    "infertility",
+    "pcos",
+    "irregular periods",
+    "menopause",
+    "pelvic pain"
+   ],
+   "qualifications": "MBBS, MS (OBG)",
+   "experience_years": 23,
+   "languages": [
+    "English",
+    "Tamil",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Riverside Hospital",
+   "rating": 4.1,
+   "review_count": 221,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Sat"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D069",
+   "name": "Dr. Nikhil Patel",
+   "specialty": "Obstetrics & Gynecology",
+   "sub_specialties": [
+    "Infertility"
+   ],
+   "conditions": [
+    "pregnancy",
+    "pcos",
+    "infertility",
+    "menopause",
+    "irregular periods"
+   ],
+   "qualifications": "MBBS, MS (OBG)",
+   "experience_years": 18,
+   "languages": [
+    "English",
+    "Hindi",
+    "Urdu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Bluebell Clinic",
+   "rating": 4.8,
+   "review_count": 523,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D070",
+   "name": "Dr. Isha Agarwal",
+   "specialty": "Pediatrics",
+   "sub_specialties": [
+    "Pediatric Infectious Disease",
+    "Neonatology"
+   ],
+   "conditions": [
+    "growth",
+    "diarrhea in children",
+    "newborn care",
+    "vaccination"
+   ],
+   "qualifications": "MBBS, MD (Pediatrics)",
+   "experience_years": 22,
+   "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+   ],
+   "city": "Delhi",
+   "hospital": "Harmony Hospital",
+   "rating": 4.1,
+   "review_count": 376,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D071",
+   "name": "Dr. Siddharth Sharma",
+   "specialty": "Pediatrics",
+   "sub_specialties": [
+    "Pediatric Infectious Disease"
+   ],
+   "conditions": [
+    "vaccination",
+    "child fever",
+    "diarrhea in children",
+    "growth"
+   ],
+   "qualifications": "MBBS, MD (Pediatrics)",
+   "experience_years": 24,
+   "languages": [
+    "English",
+    "Telugu",
+    "Tamil"
+   ],
+   "city": "Chennai",
+   "hospital": "Cedar Multispeciality Hospital",
+   "rating": 4.5,
+   "review_count": 710,
+   "fee": 1800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D072",
+   "name": "Dr. Divya Menon",
+   "specialty": "Pediatrics",
+   "sub_specialties": [
+    "Neonatology"
+   ],
+   "conditions": [
+    "vaccination",
+    "child cough",
+    "newborn care",
+    "growth",
+    "child fever",
+    "diarrhea in children"
+   ],
+   "qualifications": "MBBS, MD (Pediatrics)",
+   "experience_years": 23,
+   "languages": [
+    "English",
+    "Tamil",
+    "Hindi"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Sunrise Health Centre",
+   "rating": 4.3,
+   "review_count": 517,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D073",
+   "name": "Dr. Sneha Naidu",
+   "specialty": "Pediatrics",
+   "sub_specialties": [
+    "Pediatric Infectious Disease",
+    "Neonatology"
+   ],
+   "conditions": [
+    "newborn care",
+    "growth",
+    "diarrhea in children",
+    "child fever",
+    "child cough",
+    "vaccination"
+   ],
+   "qualifications": "MBBS, MD (Pediatrics)",
+   "experience_years": 17,
+   "languages": [
+    "English",
+    "Tamil"
+   ],
+   "city": "Chennai",
+   "hospital": "Sunrise Medical Centre",
+   "rating": 4.2,
+   "review_count": 520,
+   "fee": 400,
+   "currency": "INR",
+   "available_days": [
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D074",
+   "name": "Dr. Shruti Khan",
+   "specialty": "Pediatrics",
+   "sub_specialties": [
+    "Pediatric Infectious Disease",
+    "Neonatology"
+   ],
+   "conditions": [
+    "child fever",
+    "vaccination",
+    "growth",
+    "child cough",
+    "diarrhea in children",
+    "newborn care"
+   ],
+   "qualifications": "MBBS, MD (Pediatrics)",
+   "experience_years": 5,
+   "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+   ],
+   "city": "Pune",
+   "hospital": "Meadow Health Centre",
+   "rating": 4.0,
+   "review_count": 147,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D075",
+   "name": "Dr. Manish Shetty",
+   "specialty": "Pediatrics",
+   "sub_specialties": [
+    "Pediatric Infectious Disease"
+   ],
+   "conditions": [
+    "growth",
+    "child fever",
+    "diarrhea in children",
+    "newborn care",
+    "vaccination",
+    "child cough"
+   ],
+   "qualifications": "MBBS, MD (Pediatrics)",
+   "experience_years": 8,
+   "languages": [
+    "English",
+    "Marathi",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Cedar Health Centre",
+   "rating": 4.0,
+   "review_count": 689,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D076",
+   "name": "Dr. Nikhil Kapoor",
+   "specialty": "Pediatrics",
+   "sub_specialties": [
+    "Pediatric Infectious Disease"
+   ],
+   "conditions": [
+    "diarrhea in children",
+    "child fever",
+    "child cough",
+    "growth",
+    "vaccination",
+    "newborn care"
+   ],
+   "qualifications": "MBBS, MD (Pediatrics)",
+   "experience_years": 27,
+   "languages": [
+    "English",
+    "Tamil",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Silver Oak Hospital",
+   "rating": 4.1,
+   "review_count": 76,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D077",
+   "name": "Dr. Suresh Khan",
+   "specialty": "Pediatrics",
+   "sub_specialties": [
+    "Pediatric Infectious Disease"
+   ],
+   "conditions": [
+    "newborn care",
+    "child fever",
+    "growth",
+    "diarrhea in children",
+    "vaccination",
+    "child cough"
+   ],
+   "qualifications": "MBBS, MD (Pediatrics)",
+   "experience_years": 13,
+   "languages": [
+    "English",
+    "Telugu",
+    "Tamil"
+   ],
+   "city": "Chennai",
+   "hospital": "Green Valley Multispeciality Hospital",
+   "rating": 4.0,
+   "review_count": 408,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D078",
+   "name": "Dr. Sanjay Bhat",
+   "specialty": "Pediatrics",
+   "sub_specialties": [
+    "Pediatric Infectious Disease",
+    "Neonatology"
+   ],
+   "conditions": [
+    "child fever",
+    "child cough",
+    "newborn care",
+    "diarrhea in children"
+   ],
+   "qualifications": "MBBS, MD (Pediatrics)",
+   "experience_years": 18,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Lotus Multispeciality Hospital",
+   "rating": 4.2,
+   "review_count": 626,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D079",
+   "name": "Dr. Zoya Singh",
+   "specialty": "Pediatrics",
+   "sub_specialties": [
+    "Pediatric Infectious Disease"
+   ],
+   "conditions": [
+    "newborn care",
+    "diarrhea in children",
+    "vaccination",
+    "child cough"
+   ],
+   "qualifications": "MBBS, MD (Pediatrics)",
+   "experience_years": 14,
+   "languages": [
+    "English",
+    "Tamil",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Meadow Hospital",
+   "rating": 4.6,
+   "review_count": 301,
+   "fee": 500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D080",
+   "name": "Dr. Meera Nair",
+   "specialty": "Pediatrics",
+   "sub_specialties": [
+    "Neonatology",
+    "Pediatric Infectious Disease"
+   ],
+   "conditions": [
+    "vaccination",
+    "growth",
+    "child cough",
+    "newborn care"
+   ],
+   "qualifications": "MBBS, MD (Pediatrics)",
+   "experience_years": 27,
+   "languages": [
+    "English",
+    "Kannada",
+    "Tamil"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Harmony Health Centre",
+   "rating": 4.3,
+   "review_count": 417,
+   "fee": 1100,
+   "currency": "INR",
+   "available_days": [
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D081",
+   "name": "Dr. Ananya Singh",
+   "specialty": "Pediatrics",
+   "sub_specialties": [
+    "Neonatology",
+    "Pediatric Infectious Disease"
+   ],
+   "conditions": [
+    "growth",
+    "child fever",
+    "child cough",
+    "vaccination",
+    "newborn care",
+    "diarrhea in children"
+   ],
+   "qualifications": "MBBS, MD (Pediatrics)",
+   "experience_years": 29,
+   "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+   ],
+   "city": "Delhi",
+   "hospital": "Green Valley Medical Centre",
+   "rating": 4.1,
+   "review_count": 732,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D082",
+   "name": "Dr. Harpreet Pillai",
+   "specialty": "Pediatrics",
+   "sub_specialties": [
+    "Neonatology",
+    "Pediatric Infectious Disease"
+   ],
+   "conditions": [
+    "vaccination",
+    "newborn care",
+    "growth",
+    "child cough",
+    "diarrhea in children",
+    "child fever"
+   ],
+   "qualifications": "MBBS, MD (Pediatrics)",
+   "experience_years": 9,
+   "languages": [
+    "English",
+    "Tamil",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Meadow Clinic",
+   "rating": 4.3,
+   "review_count": 707,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D083",
+   "name": "Dr. Ritu Rao",
+   "specialty": "Dermatology",
+   "sub_specialties": [
+    "Pediatric Dermatology",
+    "Trichology"
+   ],
+   "conditions": [
+    "acne",
+    "hair loss",
+    "fungal infection",
+    "skin rash",
+    "eczema"
+   ],
+   "qualifications": "MBBS, MD (Dermatology)",
+   "experience_years": 9,
+   "languages": [
+    "English",
+    "Tamil",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Lotus Clinic",
+   "rating": 4.7,
+   "review_count": 95,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D084",
+   "name": "Dr. Rahul Reddy",
+   "specialty": "Dermatology",
+   "sub_specialties": [
+    "Cosmetic Dermatology"
+   ],
+   "conditions": [
+    "fungal infection",
+    "hair loss",
+    "eczema",
+    "pigmentation"
+   ],
+   "qualifications": "MBBS, MD (Dermatology)",
+   "experience_years": 11,
+   "languages": [
+    "English",
+    "Tamil"
+   ],
+   "city": "Chennai",
+   "hospital": "Bluebell Clinic",
+   "rating": 4.5,
+   "review_count": 117,
+   "fee": 600,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Fri"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D085",
+   "name": "Dr. Karthik Joshi",
+   "specialty": "Dermatology",
+   "sub_specialties": [
+    "Pediatric Dermatology",
+    "Cosmetic Dermatology"
+   ],
+   "conditions": [
+    "fungal infection",
+    "hair loss",
+    "eczema",
+    "acne"
+   ],
+   "qualifications": "MBBS, MD (Dermatology)",
+   "experience_years": 18,
+   "languages": [
+    "English",
+    "Punjabi"
+   ],
+   "city": "Delhi",
+   "hospital": "Green Valley Multispeciality Hospital",
+   "rating": 4.8,
+   "review_count": 421,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D086",
+   "name": "Dr. Anjali Joshi",
+   "specialty": "Dermatology",
+   "sub_specialties": [
+    "Trichology",
+    "Pediatric Dermatology"
+   ],
+   "conditions": [
+    "pigmentation",
+    "hair loss",
+    "skin rash",
+    "psoriasis"
+   ],
+   "qualifications": "MBBS, MD (Dermatology)",
+   "experience_years": 6,
+   "languages": [
+    "English",
+    "Telugu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Harmony Medical Centre",
+   "rating": 4.4,
+   "review_count": 678,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D087",
+   "name": "Dr. Isha Saxena",
+   "specialty": "Dermatology",
+   "sub_specialties": [
+    "Pediatric Dermatology",
+    "Trichology"
+   ],
+   "conditions": [
+    "skin rash",
+    "fungal infection",
+    "acne",
+    "eczema"
+   ],
+   "qualifications": "MBBS, MD (Dermatology)",
+   "experience_years": 9,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Harmony Medical Centre",
+   "rating": 3.9,
+   "review_count": 407,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D088",
+   "name": "Dr. Pooja Patel",
+   "specialty": "Dermatology",
+   "sub_specialties": [
+    "Pediatric Dermatology"
+   ],
+   "conditions": [
+    "eczema",
+    "skin rash",
+    "hair loss",
+    "psoriasis",
+    "fungal infection"
+   ],
+   "qualifications": "MBBS, MD (Dermatology)",
+   "experience_years": 25,
+   "languages": [
+    "English",
+    "Tamil"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Silver Oak Clinic",
+   "rating": 4.5,
+   "review_count": 239,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D089",
+   "name": "Dr. Neha Menon",
+   "specialty": "Dermatology",
+   "sub_specialties": [
+    "Trichology"
+   ],
+   "conditions": [
+    "hair loss",
+    "fungal infection",
+    "psoriasis",
+    "acne",
+    "pigmentation"
+   ],
+   "qualifications": "MBBS, MD (Dermatology)",
+   "experience_years": 24,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Meadow Health Centre",
+   "rating": 4.2,
+   "review_count": 564,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D090",
+   "name": "Dr. Ritu Iyer",
+   "specialty": "Dermatology",
+   "sub_specialties": [
+    "Cosmetic Dermatology",
+    "Pediatric Dermatology"
+   ],
+   "conditions": [
+    "hair loss",
+    "skin rash",
+    "fungal infection",
+    "acne"
+   ],
+   "qualifications": "MBBS, MD (Dermatology)",
+   "experience_years": 21,
+   "languages": [
+    "English",
+    "Telugu",
+    "Tamil"
+   ],
+   "city": "Chennai",
+   "hospital": "Bluebell Clinic",
+   "rating": 4.7,
+   "review_count": 778,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D091",
+   "name": "Dr. Vikram Chatterjee",
+   "specialty": "Dermatology",
+   "sub_specialties": [
+    "Pediatric Dermatology"
+   ],
+   "conditions": [
+    "eczema",
+    "pigmentation",
+    "skin rash",
+    "psoriasis",
+    "fungal infection"
+   ],
+   "qualifications": "MBBS, MD (Dermatology)",
+   "experience_years": 4,
+   "languages": [
+    "English",
+    "Hindi",
+    "Urdu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Riverside Health Centre",
+   "rating": 3.9,
+   "review_count": 895,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Fri"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D092",
+   "name": "Dr. Aarav Sharma",
+   "specialty": "Dermatology",
+   "sub_specialties": [
+    "Pediatric Dermatology",
+    "Trichology"
+   ],
+   "conditions": [
+    "skin rash",
+    "eczema",
+    "fungal infection",
+    "pigmentation",
+    "hair loss",
+    "acne"
+   ],
+   "qualifications": "MBBS, MD (Dermatology)",
+   "experience_years": 10,
+   "languages": [
+    "English",
+    "Tamil",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Lotus Hospital",
+   "rating": 4.4,
+   "review_count": 31,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D093",
+   "name": "Dr. Priya Menon",
+   "specialty": "Dermatology",
+   "sub_specialties": [
+    "Pediatric Dermatology"
+   ],
+   "conditions": [
+    "eczema",
+    "hair loss",
+    "pigmentation",
+    "acne",
+    "skin rash"
+   ],
+   "qualifications": "MBBS, MD (Dermatology)",
+   "experience_years": 25,
+   "languages": [
+    "English",
+    "Tamil",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Cedar Health Centre",
+   "rating": 4.7,
+   "review_count": 853,
+   "fee": 1300,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D094",
+   "name": "Dr. Nandini Mehta",
+   "specialty": "Dermatology",
+   "sub_specialties": [
+    "Trichology"
+   ],
+   "conditions": [
+    "skin rash",
+    "hair loss",
+    "pigmentation",
+    "acne",
+    "eczema",
+    "psoriasis"
+   ],
+   "qualifications": "MBBS, MD (Dermatology)",
+   "experience_years": 4,
+   "languages": [
+    "English",
+    "Hindi",
+    "Tamil",
+    "Kannada"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Green Valley Clinic",
+   "rating": 4.1,
+   "review_count": 787,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D095",
+   "name": "Dr. Harpreet Verma",
+   "specialty": "Dermatology",
+   "sub_specialties": [
+    "Pediatric Dermatology"
+   ],
+   "conditions": [
+    "psoriasis",
+    "eczema",
+    "pigmentation",
+    "acne"
+   ],
+   "qualifications": "MBBS, MD (Dermatology)",
+   "experience_years": 20,
+   "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+   ],
+   "city": "Pune",
+   "hospital": "Meadow Medical Centre",
+   "rating": 4.0,
+   "review_count": 401,
+   "fee": 400,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D096",
+   "name": "Dr. Anjali Joshi",
+   "specialty": "Neurology",
+   "sub_specialties": [
+    "Stroke"
+   ],
+   "conditions": [
+    "headache",
+    "numbness",
+    "epilepsy",
+    "vertigo"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 30,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Sunrise Health Centre",
+   "rating": 4.4,
+   "review_count": 304,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D097",
+   "name": "Dr. Arjun Mishra",
+   "specialty": "Neurology",
+   "sub_specialties": [
+    "Epilepsy",
+    "Stroke"
+   ],
+   "conditions": [
+    "numbness",
+    "epilepsy",
+    "migraine",
+    "stroke",
+    "headache"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 17,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Delhi",
+   "hospital": "Silver Oak Health Centre",
+   "rating": 4.7,
+   "review_count": 608,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D098",
+   "name": "Dr. Nandini Kapoor",
+   "specialty": "Neurology",
+   "sub_specialties": [
+    "Epilepsy",
+    "Headache Medicine"
+   ],
+   "conditions": [
+    "vertigo",
+    "epilepsy",
+    "headache",
+    "seizure",
+    "numbness",
+    "migraine"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 18,
+   "languages": [
+    "English",
+    "Marathi",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Meadow Multispeciality Hospital",
+   "rating": 4.7,
+   "review_count": 91,
+   "fee": 400,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D099",
+   "name": "Dr. Neha Pillai",
+   "specialty": "Neurology",
+   "sub_specialties": [
+    "Epilepsy",
+    "Stroke"
+   ],
+   "conditions": [
+    "vertigo",
+    "numbness",
+    "epilepsy",
+    "migraine",
+    "stroke",
+    "seizure"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 3,
+   "languages": [
+    "English",
+    "Marathi",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Meadow Clinic",
+   "rating": 4.3,
+   "review_count": 308,
+   "fee": 400,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D100",
+   "name": "Dr. Nikhil Singh",
+   "specialty": "Neurology",
+   "sub_specialties": [
+    "Epilepsy",
+    "Stroke"
+   ],
+   "conditions": [
+    "parkinson",
+    "epilepsy",
+    "stroke",
+    "headache",
+    "numbness"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 19,
+   "languages": [
+    "English",
+    "Urdu",
+    "Telugu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Lotus Multispeciality Hospital",
+   "rating": 4.3,
+   "review_count": 401,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D101",
+   "name": "Dr. Anjali Mehta",
+   "specialty": "Neurology",
+   "sub_specialties": [
+    "Headache Medicine"
+   ],
+   "conditions": [
+    "epilepsy",
+    "headache",
+    "numbness",
+    "stroke"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 16,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Lotus Multispeciality Hospital",
+   "rating": 4.5,
+   "review_count": 302,
+   "fee": 400,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D102",
+   "name": "Dr. Zoya Iyer",
+   "specialty": "Neurology",
+   "sub_specialties": [
+    "Stroke",
+    "Headache Medicine"
+   ],
+   "conditions": [
+    "parkinson",
+    "numbness",
+    "stroke",
+    "seizure",
+    "epilepsy",
+    "vertigo"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 29,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Meadow Clinic",
+   "rating": 4.1,
+   "review_count": 462,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Wed",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D103",
+   "name": "Dr. Manish Sharma",
+   "specialty": "Neurology",
+   "sub_specialties": [
+    "Epilepsy",
+    "Headache Medicine"
+   ],
+   "conditions": [
+    "numbness",
+    "stroke",
+    "epilepsy",
+    "vertigo"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 27,
+   "languages": [
+    "English",
+    "Punjabi"
+   ],
+   "city": "Delhi",
+   "hospital": "Riverside Health Centre",
+   "rating": 4.3,
+   "review_count": 267,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D104",
+   "name": "Dr. Farhan Rao",
+   "specialty": "Neurology",
+   "sub_specialties": [
+    "Stroke",
+    "Headache Medicine"
+   ],
+   "conditions": [
+    "stroke",
+    "epilepsy",
+    "seizure",
+    "numbness"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 7,
+   "languages": [
+    "English",
+    "Tamil"
+   ],
+   "city": "Chennai",
+   "hospital": "Riverside Medical Centre",
+   "rating": 4.2,
+   "review_count": 585,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D105",
+   "name": "Dr. Manish Khan",
+   "specialty": "Neurology",
+   "sub_specialties": [
+    "Epilepsy"
+   ],
+   "conditions": [
+    "parkinson",
+    "vertigo",
+    "migraine",
+    "stroke",
+    "headache"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 22,
+   "languages": [
+    "English",
+    "Urdu",
+    "Telugu",
+    "Hindi"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Green Valley Medical Centre",
+   "rating": 4.2,
+   "review_count": 289,
+   "fee": 1800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D106",
+   "name": "Dr. Vikram Singh",
+   "specialty": "Neurology",
+   "sub_specialties": [
+    "Stroke",
+    "Epilepsy"
+   ],
+   "conditions": [
+    "epilepsy",
+    "vertigo",
+    "migraine",
+    "headache",
+    "seizure",
+    "numbness"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 28,
+   "languages": [
+    "English",
+    "Punjabi",
+    "Hindi"
+   ],
+   "city": "Delhi",
+   "hospital": "Harmony Hospital",
+   "rating": 4.3,
+   "review_count": 850,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D107",
+   "name": "Dr. Varun Mishra",
+   "specialty": "Gastroenterology",
+   "sub_specialties": [
+    "IBD",
+    "Hepatology"
+   ],
+   "conditions": [
+    "jaundice",
+    "abdominal pain",
+    "fatty liver",
+    "ulcer",
+    "acidity"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 13,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Delhi",
+   "hospital": "Meadow Multispeciality Hospital",
+   "rating": 4.7,
+   "review_count": 487,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D108",
+   "name": "Dr. Nikhil Naidu",
+   "specialty": "Gastroenterology",
+   "sub_specialties": [
+    "IBD"
+   ],
+   "conditions": [
+    "jaundice",
+    "acidity",
+    "fatty liver",
+    "ibs",
+    "constipation"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 10,
+   "languages": [
+    "English",
+    "Hindi",
+    "Tamil",
+    "Kannada"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Harmony Health Centre",
+   "rating": 4.4,
+   "review_count": 102,
+   "fee": 500,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D109",
+   "name": "Dr. Zoya Rao",
+   "specialty": "Gastroenterology",
+   "sub_specialties": [
+    "Hepatology",
+    "IBD"
+   ],
+   "conditions": [
+    "ibs",
+    "gerd",
+    "ulcer",
+    "constipation"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 21,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Pune",
+   "hospital": "Harmony Hospital",
+   "rating": 4.4,
+   "review_count": 710,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D110",
+   "name": "Dr. Meera Singh",
+   "specialty": "Gastroenterology",
+   "sub_specialties": [
+    "Endoscopy",
+    "IBD"
+   ],
+   "conditions": [
+    "ulcer",
+    "abdominal pain",
+    "fatty liver",
+    "acidity"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 6,
+   "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+   ],
+   "city": "Pune",
+   "hospital": "Riverside Clinic",
+   "rating": 3.9,
+   "review_count": 742,
+   "fee": 500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D111",
+   "name": "Dr. Pooja Pillai",
+   "specialty": "Gastroenterology",
+   "sub_specialties": [
+    "IBD"
+   ],
+   "conditions": [
+    "constipation",
+    "ibs",
+    "fatty liver",
+    "ulcer"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 32,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Green Valley Medical Centre",
+   "rating": 4.6,
+   "review_count": 457,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D112",
+   "name": "Dr. Aarav Shetty",
+   "specialty": "Gastroenterology",
+   "sub_specialties": [
+    "Hepatology"
+   ],
+   "conditions": [
+    "gerd",
+    "ibs",
+    "acidity",
+    "jaundice",
+    "ulcer"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 15,
+   "languages": [
+    "English",
+    "Punjabi",
+    "Hindi"
+   ],
+   "city": "Delhi",
+   "hospital": "Northstar Multispeciality Hospital",
+   "rating": 4.2,
+   "review_count": 898,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D113",
+   "name": "Dr. Revathi Saxena",
+   "specialty": "Gastroenterology",
+   "sub_specialties": [
+    "IBD"
+   ],
+   "conditions": [
+    "ibs",
+    "ulcer",
+    "jaundice",
+    "acidity",
+    "gerd",
+    "fatty liver"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 30,
+   "languages": [
+    "English",
+    "Kannada"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Silver Oak Multispeciality Hospital",
+   "rating": 4.2,
+   "review_count": 725,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D114",
+   "name": "Dr. Isha Agarwal",
+   "specialty": "Gastroenterology",
+   "sub_specialties": [
+    "Endoscopy"
+   ],
+   "conditions": [
+    "abdominal pain",
+    "gerd",
+    "ulcer",
+    "fatty liver",
+    "acidity"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 25,
+   "languages": [
+    "English",
+    "Telugu",
+    "Hindi"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Green Valley Medical Centre",
+   "rating": 4.7,
+   "review_count": 590,
+   "fee": 1800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D115",
+   "name": "Dr. Aditya Joshi",
+   "specialty": "Gastroenterology",
+   "sub_specialties": [
+    "Endoscopy"
+   ],
+   "conditions": [
+    "ibs",
+    "gerd",
+    "fatty liver",
+    "ulcer"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 28,
+   "languages": [
+    "English",
+    "Marathi",
+    "Hindi"
+   ],
+   "city": "Pune",
+   "hospital": "Silver Oak Health Centre",
+   "rating": 4.7,
+   "review_count": 390,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D116",
+   "name": "Dr. Nikhil Singh",
+   "specialty": "Gastroenterology",
+   "sub_specialties": [
+    "Endoscopy"
+   ],
+   "conditions": [
+    "fatty liver",
+    "gerd",
+    "constipation",
+    "ibs"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 17,
+   "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+   ],
+   "city": "Pune",
+   "hospital": "Cedar Medical Centre",
+   "rating": 4.6,
+   "review_count": 848,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Wed",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D117",
+   "name": "Dr. Manish Shetty",
+   "specialty": "Gastroenterology",
+   "sub_specialties": [
+    "Endoscopy",
+    "IBD"
+   ],
+   "conditions": [
+    "gerd",
+    "ulcer",
+    "fatty liver",
+    "acidity",
+    "abdominal pain",
+    "constipation"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 8,
+   "languages": [
+    "English",
+    "Urdu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Green Valley Medical Centre",
+   "rating": 4.0,
+   "review_count": 344,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D118",
+   "name": "Dr. Sneha Khan",
+   "specialty": "Endocrinology",
+   "sub_specialties": [
+    "Obesity",
+    "Thyroid"
+   ],
+   "conditions": [
+    "pcos",
+    "hypothyroidism",
+    "obesity",
+    "diabetes",
+    "hormonal imbalance"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 23,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Pune",
+   "hospital": "Harmony Multispeciality Hospital",
+   "rating": 4.7,
+   "review_count": 422,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D119",
+   "name": "Dr. Ritu Rao",
+   "specialty": "Endocrinology",
+   "sub_specialties": [
+    "Diabetology"
+   ],
+   "conditions": [
+    "hormonal imbalance",
+    "pcos",
+    "diabetes",
+    "obesity"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 7,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Northstar Multispeciality Hospital",
+   "rating": 4.7,
+   "review_count": 453,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D120",
+   "name": "Dr. Sneha Singh",
+   "specialty": "Endocrinology",
+   "sub_specialties": [
+    "Diabetology"
+   ],
+   "conditions": [
+    "hormonal imbalance",
+    "hypothyroidism",
+    "thyroid",
+    "pcos",
+    "high blood sugar"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 11,
+   "languages": [
+    "English",
+    "Tamil"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Riverside Multispeciality Hospital",
+   "rating": 4.1,
+   "review_count": 94,
+   "fee": 600,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D121",
+   "name": "Dr. Kavya Verma",
+   "specialty": "Endocrinology",
+   "sub_specialties": [
+    "Thyroid"
+   ],
+   "conditions": [
+    "thyroid",
+    "pcos",
+    "diabetes",
+    "obesity"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 29,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Harmony Clinic",
+   "rating": 4.2,
+   "review_count": 807,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D122",
+   "name": "Dr. Suresh Mishra",
+   "specialty": "Endocrinology",
+   "sub_specialties": [
+    "Obesity"
+   ],
+   "conditions": [
+    "thyroid",
+    "pcos",
+    "obesity",
+    "hormonal imbalance",
+    "diabetes",
+    "hypothyroidism"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 17,
+   "languages": [
+    "English",
+    "Marathi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Riverside Health Centre",
+   "rating": 4.6,
+   "review_count": 374,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D123",
+   "name": "Dr. Varun Shetty",
+   "specialty": "Endocrinology",
+   "sub_specialties": [
+    "Obesity"
+   ],
+   "conditions": [
+    "thyroid",
+    "obesity",
+    "hormonal imbalance",
+    "high blood sugar",
+    "hypothyroidism"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 22,
+   "languages": [
+    "English",
+    "Hindi",
+    "Telugu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Sunrise Hospital",
+   "rating": 4.3,
+   "review_count": 261,
+   "fee": 1800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Fri"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D124",
+   "name": "Dr. Harpreet Singh",
+   "specialty": "Endocrinology",
+   "sub_specialties": [
+    "Thyroid"
+   ],
+   "conditions": [
+    "diabetes",
+    "obesity",
+    "high blood sugar",
+    "hormonal imbalance"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 15,
+   "languages": [
+    "English",
+    "Marathi",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Lotus Hospital",
+   "rating": 4.4,
+   "review_count": 658,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D125",
+   "name": "Dr. Neha Kulkarni",
+   "specialty": "Endocrinology",
+   "sub_specialties": [
+    "Thyroid",
+    "Diabetology"
+   ],
+   "conditions": [
+    "hormonal imbalance",
+    "pcos",
+    "thyroid",
+    "diabetes",
+    "high blood sugar"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 32,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Riverside Hospital",
+   "rating": 4.6,
+   "review_count": 71,
+   "fee": 1100,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D126",
+   "name": "Dr. Deepa Mishra",
+   "specialty": "Endocrinology",
+   "sub_specialties": [
+    "Diabetology",
+    "Thyroid"
+   ],
+   "conditions": [
+    "hormonal imbalance",
+    "hypothyroidism",
+    "diabetes",
+    "obesity"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 19,
+   "languages": [
+    "English",
+    "Hindi",
+    "Tamil"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Meadow Multispeciality Hospital",
+   "rating": 4.2,
+   "review_count": 605,
+   "fee": 500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D127",
+   "name": "Dr. Arjun Mehta",
+   "specialty": "Endocrinology",
+   "sub_specialties": [
+    "Diabetology"
+   ],
+   "conditions": [
+    "obesity",
+    "diabetes",
+    "hormonal imbalance",
+    "high blood sugar",
+    "pcos",
+    "hypothyroidism"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 27,
+   "languages": [
+    "English",
+    "Hindi",
+    "Tamil"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Green Valley Medical Centre",
+   "rating": 4.8,
+   "review_count": 893,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D128",
+   "name": "Dr. Lakshmi Reddy",
+   "specialty": "ENT",
+   "sub_specialties": [
+    "Otology"
+   ],
+   "conditions": [
+    "nasal blockage",
+    "sore throat",
+    "sinusitis",
+    "tonsillitis"
+   ],
+   "qualifications": "MBBS, MS (ENT)",
+   "experience_years": 21,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Pune",
+   "hospital": "Silver Oak Clinic",
+   "rating": 4.3,
+   "review_count": 581,
+   "fee": 1800,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D129",
+   "name": "Dr. Pooja Bhat",
+   "specialty": "ENT",
+   "sub_specialties": [
+    "Head & Neck",
+    "Rhinology"
+   ],
+   "conditions": [
+    "vertigo",
+    "sore throat",
+    "ear pain",
+    "nasal blockage"
+   ],
+   "qualifications": "MBBS, MS (ENT)",
+   "experience_years": 26,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Lotus Medical Centre",
+   "rating": 4.5,
+   "review_count": 666,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D130",
+   "name": "Dr. Ritu Patel",
+   "specialty": "ENT",
+   "sub_specialties": [
+    "Head & Neck"
+   ],
+   "conditions": [
+    "sinusitis",
+    "nasal blockage",
+    "ear pain",
+    "tonsillitis",
+    "hearing loss"
+   ],
+   "qualifications": "MBBS, MS (ENT)",
+   "experience_years": 16,
+   "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Cedar Multispeciality Hospital",
+   "rating": 4.4,
+   "review_count": 667,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D131",
+   "name": "Dr. Varun Gupta",
+   "specialty": "ENT",
+   "sub_specialties": [
+    "Rhinology",
+    "Head & Neck"
+   ],
+   "conditions": [
+    "tonsillitis",
+    "hearing loss",
+    "ear pain",
+    "sinusitis",
+    "nasal blockage"
+   ],
+   "qualifications": "MBBS, MS (ENT)",
+   "experience_years": 10,
+   "languages": [
+    "English",
+    "Marathi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Green Valley Multispeciality Hospital",
+   "rating": 4.0,
+   "review_count": 492,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D132",
+   "name": "Dr. Sneha Deshpande",
+   "specialty": "ENT",
+   "sub_specialties": [
+    "Head & Neck",
+    "Otology"
+   ],
+   "conditions": [
+    "nasal blockage",
+    "hearing loss",
+    "ear pain",
+    "sinusitis"
+   ],
+   "qualifications": "MBBS, MS (ENT)",
+   "experience_years": 6,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Bluebell Health Centre",
+   "rating": 3.9,
+   "review_count": 321,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D133",
+   "name": "Dr. Rahul Reddy",
+   "specialty": "ENT",
+   "sub_specialties": [
+    "Otology"
+   ],
+   "conditions": [
+    "ear pain",
+    "nasal blockage",
+    "tonsillitis",
+    "hearing loss"
+   ],
+   "qualifications": "MBBS, MS (ENT)",
+   "experience_years": 28,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Pune",
+   "hospital": "Riverside Multispeciality Hospital",
+   "rating": 4.9,
+   "review_count": 217,
+   "fee": 1800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D134",
+   "name": "Dr. Gurleen Mishra",
+   "specialty": "ENT",
+   "sub_specialties": [
+    "Rhinology",
+    "Otology"
+   ],
+   "conditions": [
+    "vertigo",
+    "tonsillitis",
+    "ear pain",
+    "hearing loss",
+    "sinusitis"
+   ],
+   "qualifications": "MBBS, MS (ENT)",
+   "experience_years": 8,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Pune",
+   "hospital": "Silver Oak Hospital",
+   "rating": 4.6,
+   "review_count": 50,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D135",
+   "name": "Dr. Harpreet Nair",
+   "specialty": "ENT",
+   "sub_specialties": [
+    "Head & Neck"
+   ],
+   "conditions": [
+    "nasal blockage",
+    "sinusitis",
+    "tonsillitis",
+    "hearing loss",
+    "ear pain",
+    "sore throat"
+   ],
+   "qualifications": "MBBS, MS (ENT)",
+   "experience_years": 7,
+   "languages": [
+    "English",
+    "Punjabi",
+    "Hindi"
+   ],
+   "city": "Delhi",
+   "hospital": "Silver Oak Medical Centre",
+   "rating": 3.9,
+   "review_count": 626,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D136",
+   "name": "Dr. Suresh Mehta",
+   "specialty": "ENT",
+   "sub_specialties": [
+    "Otology"
+   ],
+   "conditions": [
+    "ear pain",
+    "vertigo",
+    "nasal blockage",
+    "hearing loss"
+   ],
+   "qualifications": "MBBS, MS (ENT)",
+   "experience_years": 19,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Delhi",
+   "hospital": "Cedar Hospital",
+   "rating": 4.3,
+   "review_count": 874,
+   "fee": 600,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D137",
+   "name": "Dr. Suresh Mehta",
+   "specialty": "ENT",
+   "sub_specialties": [
+    "Head & Neck"
+   ],
+   "conditions": [
+    "nasal blockage",
+    "tonsillitis",
+    "sore throat",
+    "hearing loss"
+   ],
+   "qualifications": "MBBS, MS (ENT)",
+   "experience_years": 25,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Pune",
+   "hospital": "Lotus Multispeciality Hospital",
+   "rating": 4.1,
+   "review_count": 631,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Thu",
+    "Fri"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D138",
+   "name": "Dr. Rahul Rao",
+   "specialty": "Pulmonology",
+   "sub_specialties": [
+    "Sleep Medicine"
+   ],
+   "conditions": [
+    "asthma",
+    "copd",
+    "pneumonia",
+    "sleep apnea"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 9,
+   "languages": [
+    "English",
+    "Urdu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Harmony Multispeciality Hospital",
+   "rating": 4.2,
+   "review_count": 693,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Wed",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D139",
+   "name": "Dr. Gurleen Kapoor",
+   "specialty": "Pulmonology",
+   "sub_specialties": [
+    "Critical Care",
+    "Sleep Medicine"
+   ],
+   "conditions": [
+    "sleep apnea",
+    "pneumonia",
+    "tuberculosis",
+    "chronic cough"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 26,
+   "languages": [
+    "English",
+    "Marathi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Bluebell Clinic",
+   "rating": 4.6,
+   "review_count": 316,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D140",
+   "name": "Dr. Rohan Deshpande",
+   "specialty": "Pulmonology",
+   "sub_specialties": [
+    "Critical Care",
+    "Asthma & Allergy"
+   ],
+   "conditions": [
+    "pneumonia",
+    "asthma",
+    "breathlessness",
+    "copd",
+    "tuberculosis",
+    "sleep apnea"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 21,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Harmony Medical Centre",
+   "rating": 4.5,
+   "review_count": 105,
+   "fee": 1300,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D141",
+   "name": "Dr. Aarav Patel",
+   "specialty": "Pulmonology",
+   "sub_specialties": [
+    "Sleep Medicine",
+    "Critical Care"
+   ],
+   "conditions": [
+    "breathlessness",
+    "tuberculosis",
+    "sleep apnea",
+    "chronic cough"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 6,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Northstar Health Centre",
+   "rating": 4.4,
+   "review_count": 718,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D142",
+   "name": "Dr. Vikram Rao",
+   "specialty": "Pulmonology",
+   "sub_specialties": [
+    "Sleep Medicine"
+   ],
+   "conditions": [
+    "sleep apnea",
+    "asthma",
+    "pneumonia",
+    "tuberculosis"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 6,
+   "languages": [
+    "English",
+    "Tamil",
+    "Hindi"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Lotus Hospital",
+   "rating": 4.6,
+   "review_count": 183,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D143",
+   "name": "Dr. Nandini Mishra",
+   "specialty": "Pulmonology",
+   "sub_specialties": [
+    "Critical Care",
+    "Sleep Medicine"
+   ],
+   "conditions": [
+    "copd",
+    "asthma",
+    "sleep apnea",
+    "breathlessness",
+    "chronic cough"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 25,
+   "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+   ],
+   "city": "Delhi",
+   "hospital": "Harmony Multispeciality Hospital",
+   "rating": 4.4,
+   "review_count": 316,
+   "fee": 1800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D144",
+   "name": "Dr. Kavya Joshi",
+   "specialty": "Pulmonology",
+   "sub_specialties": [
+    "Sleep Medicine",
+    "Critical Care"
+   ],
+   "conditions": [
+    "chronic cough",
+    "asthma",
+    "pneumonia",
+    "breathlessness",
+    "sleep apnea",
+    "copd"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 18,
+   "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+   ],
+   "city": "Pune",
+   "hospital": "Northstar Multispeciality Hospital",
+   "rating": 4.2,
+   "review_count": 491,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D145",
+   "name": "Dr. Arjun Iyer",
+   "specialty": "Pulmonology",
+   "sub_specialties": [
+    "Critical Care",
+    "Sleep Medicine"
+   ],
+   "conditions": [
+    "copd",
+    "pneumonia",
+    "asthma",
+    "breathlessness",
+    "chronic cough",
+    "tuberculosis"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 24,
+   "languages": [
+    "English",
+    "Tamil",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Silver Oak Multispeciality Hospital",
+   "rating": 4.4,
+   "review_count": 889,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D146",
+   "name": "Dr. Rahul Patel",
+   "specialty": "Pulmonology",
+   "sub_specialties": [
+    "Asthma & Allergy",
+    "Sleep Medicine"
+   ],
+   "conditions": [
+    "tuberculosis",
+    "sleep apnea",
+    "copd",
+    "chronic cough"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 9,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Riverside Hospital",
+   "rating": 4.3,
+   "review_count": 580,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D147",
+   "name": "Dr. Arjun Reddy",
+   "specialty": "Pulmonology",
+   "sub_specialties": [
+    "Sleep Medicine"
+   ],
+   "conditions": [
+    "chronic cough",
+    "breathlessness",
+    "tuberculosis",
+    "sleep apnea",
+    "pneumonia",
+    "copd"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 21,
+   "languages": [
+    "English",
+    "Marathi",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Silver Oak Hospital",
+   "rating": 4.1,
+   "review_count": 638,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D148",
+   "name": "Dr. Divya Singh",
+   "specialty": "Psychiatry",
+   "sub_specialties": [
+    "Addiction"
+   ],
+   "conditions": [
+    "insomnia",
+    "addiction",
+    "stress",
+    "anxiety",
+    "panic attacks"
+   ],
+   "qualifications": "MBBS, MD (Psychiatry)",
+   "experience_years": 32,
+   "languages": [
+    "English",
+    "Punjabi"
+   ],
+   "city": "Delhi",
+   "hospital": "Northstar Clinic",
+   "rating": 4.3,
+   "review_count": 441,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D149",
+   "name": "Dr. Priya Pillai",
+   "specialty": "Psychiatry",
+   "sub_specialties": [
+    "Child Psychiatry"
+   ],
+   "conditions": [
+    "bipolar",
+    "panic attacks",
+    "stress",
+    "depression",
+    "insomnia"
+   ],
+   "qualifications": "MBBS, MD (Psychiatry)",
+   "experience_years": 14,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Sunrise Medical Centre",
+   "rating": 4.6,
+   "review_count": 270,
+   "fee": 400,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D150",
+   "name": "Dr. Kavya Naidu",
+   "specialty": "Psychiatry",
+   "sub_specialties": [
+    "Child Psychiatry"
+   ],
+   "conditions": [
+    "stress",
+    "panic attacks",
+    "addiction",
+    "depression",
+    "bipolar"
+   ],
+   "qualifications": "MBBS, MD (Psychiatry)",
+   "experience_years": 32,
+   "languages": [
+    "English",
+    "Telugu",
+    "Tamil"
+   ],
+   "city": "Chennai",
+   "hospital": "Silver Oak Multispeciality Hospital",
+   "rating": 4.3,
+   "review_count": 410,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D151",
+   "name": "Dr. Divya Kapoor",
+   "specialty": "Psychiatry",
+   "sub_specialties": [
+    "Mood Disorders",
+    "Child Psychiatry"
+   ],
+   "conditions": [
+    "anxiety",
+    "stress",
+    "depression",
+    "panic attacks",
+    "insomnia",
+    "addiction"
+   ],
+   "qualifications": "MBBS, MD (Psychiatry)",
+   "experience_years": 9,
+   "languages": [
+    "English",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Cedar Clinic",
+   "rating": 4.5,
+   "review_count": 741,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D152",
+   "name": "Dr. Zoya Mehta",
+   "specialty": "Psychiatry",
+   "sub_specialties": [
+    "Child Psychiatry"
+   ],
+   "conditions": [
+    "bipolar",
+    "insomnia",
+    "panic attacks",
+    "addiction",
+    "depression",
+    "anxiety"
+   ],
+   "qualifications": "MBBS, MD (Psychiatry)",
+   "experience_years": 29,
+   "languages": [
+    "English",
+    "Telugu",
+    "Hindi"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Silver Oak Clinic",
+   "rating": 4.8,
+   "review_count": 282,
+   "fee": 1100,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D153",
+   "name": "Dr. Zoya Naidu",
+   "specialty": "Psychiatry",
+   "sub_specialties": [
+    "Mood Disorders",
+    "Child Psychiatry"
+   ],
+   "conditions": [
+    "anxiety",
+    "bipolar",
+    "stress",
+    "insomnia",
+    "depression",
+    "panic attacks"
+   ],
+   "qualifications": "MBBS, MD (Psychiatry)",
+   "experience_years": 28,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Lotus Health Centre",
+   "rating": 4.6,
+   "review_count": 600,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D154",
+   "name": "Dr. Siddharth Naidu",
+   "specialty": "Psychiatry",
+   "sub_specialties": [
+    "Addiction"
+   ],
+   "conditions": [
+    "stress",
+    "depression",
+    "insomnia",
+    "bipolar"
+   ],
+   "qualifications": "MBBS, MD (Psychiatry)",
+   "experience_years": 30,
+   "languages": [
+    "English",
+    "Hindi",
+    "Kannada",
+    "Tamil"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Harmony Medical Centre",
+   "rating": 4.7,
+   "review_count": 329,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D155",
+   "name": "Dr. Vikram Chatterjee",
+   "specialty": "Psychiatry",
+   "sub_specialties": [
+    "Mood Disorders"
+   ],
+   "conditions": [
+    "addiction",
+    "bipolar",
+    "stress",
+    "insomnia"
+   ],
+   "qualifications": "MBBS, MD (Psychiatry)",
+   "experience_years": 4,
+   "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+   ],
+   "city": "Delhi",
+   "hospital": "Green Valley Medical Centre",
+   "rating": 4.1,
+   "review_count": 598,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D156",
+   "name": "Dr. Manish Kapoor",
+   "specialty": "Psychiatry",
+   "sub_specialties": [
+    "Child Psychiatry"
+   ],
+   "conditions": [
+    "insomnia",
+    "depression",
+    "bipolar",
+    "panic attacks",
+    "stress"
+   ],
+   "qualifications": "MBBS, MD (Psychiatry)",
+   "experience_years": 8,
+   "languages": [
+    "English",
+    "Tamil"
+   ],
+   "city": "Chennai",
+   "hospital": "Cedar Hospital",
+   "rating": 4.4,
+   "review_count": 428,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D157",
+   "name": "Dr. Deepa Nair",
+   "specialty": "Ophthalmology",
+   "sub_specialties": [
+    "Glaucoma"
+   ],
+   "conditions": [
+    "diabetic retinopathy",
+    "cataract",
+    "glaucoma",
+    "eye pain"
+   ],
+   "qualifications": "MBBS, MS (Ophthalmology)",
+   "experience_years": 27,
+   "languages": [
+    "English",
+    "Hindi",
+    "Kannada"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Riverside Hospital",
+   "rating": 4.5,
+   "review_count": 328,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D158",
+   "name": "Dr. Deepa Saxena",
+   "specialty": "Ophthalmology",
+   "sub_specialties": [
+    "Retina",
+    "Cataract"
+   ],
+   "conditions": [
+    "red eye",
+    "eye pain",
+    "cataract",
+    "blurred vision",
+    "diabetic retinopathy"
+   ],
+   "qualifications": "MBBS, MS (Ophthalmology)",
+   "experience_years": 26,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Delhi",
+   "hospital": "Sunrise Medical Centre",
+   "rating": 4.2,
+   "review_count": 37,
+   "fee": 900,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D159",
+   "name": "Dr. Imran Saxena",
+   "specialty": "Ophthalmology",
+   "sub_specialties": [
+    "Glaucoma"
+   ],
+   "conditions": [
+    "diabetic retinopathy",
+    "blurred vision",
+    "glaucoma",
+    "red eye"
+   ],
+   "qualifications": "MBBS, MS (Ophthalmology)",
+   "experience_years": 11,
+   "languages": [
+    "English",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Northstar Hospital",
+   "rating": 4.0,
+   "review_count": 273,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D160",
+   "name": "Dr. Deepa Gupta",
+   "specialty": "Ophthalmology",
+   "sub_specialties": [
+    "Retina"
+   ],
+   "conditions": [
+    "glaucoma",
+    "diabetic retinopathy",
+    "blurred vision",
+    "cataract"
+   ],
+   "qualifications": "MBBS, MS (Ophthalmology)",
+   "experience_years": 24,
+   "languages": [
+    "English",
+    "Marathi"
+   ],
+   "city": "Pune",
+   "hospital": "Northstar Medical Centre",
+   "rating": 4.5,
+   "review_count": 811,
+   "fee": 1100,
+   "currency": "INR",
+   "available_days": [
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D161",
+   "name": "Dr. Neha Shetty",
+   "specialty": "Ophthalmology",
+   "sub_specialties": [
+    "Retina",
+    "Cataract"
+   ],
+   "conditions": [
+    "blurred vision",
+    "diabetic retinopathy",
+    "glaucoma",
+    "eye pain"
+   ],
+   "qualifications": "MBBS, MS (Ophthalmology)",
+   "experience_years": 18,
+   "languages": [
+    "English",
+    "Hindi",
+    "Telugu",
+    "Urdu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Meadow Multispeciality Hospital",
+   "rating": 4.6,
+   "review_count": 118,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D162",
+   "name": "Dr. Rohan Joshi",
+   "specialty": "Ophthalmology",
+   "sub_specialties": [
+    "Glaucoma",
+    "Retina"
+   ],
+   "conditions": [
+    "diabetic retinopathy",
+    "blurred vision",
+    "glaucoma",
+    "red eye",
+    "eye pain"
+   ],
+   "qualifications": "MBBS, MS (Ophthalmology)",
+   "experience_years": 8,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Harmony Clinic",
+   "rating": 4.6,
+   "review_count": 651,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D163",
+   "name": "Dr. Divya Khan",
+   "specialty": "Ophthalmology",
+   "sub_specialties": [
+    "Retina",
+    "Cataract"
+   ],
+   "conditions": [
+    "cataract",
+    "blurred vision",
+    "diabetic retinopathy",
+    "glaucoma"
+   ],
+   "qualifications": "MBBS, MS (Ophthalmology)",
+   "experience_years": 17,
+   "languages": [
+    "English",
+    "Punjabi",
+    "Hindi"
+   ],
+   "city": "Delhi",
+   "hospital": "Green Valley Health Centre",
+   "rating": 4.3,
+   "review_count": 382,
+   "fee": 400,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D164",
+   "name": "Dr. Manish Sharma",
+   "specialty": "Ophthalmology",
+   "sub_specialties": [
+    "Glaucoma"
+   ],
+   "conditions": [
+    "glaucoma",
+    "diabetic retinopathy",
+    "blurred vision",
+    "cataract",
+    "red eye"
+   ],
+   "qualifications": "MBBS, MS (Ophthalmology)",
+   "experience_years": 11,
+   "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+   ],
+   "city": "Pune",
+   "hospital": "Green Valley Health Centre",
+   "rating": 4.6,
+   "review_count": 642,
+   "fee": 400,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D165",
+   "name": "Dr. Siddharth Iyer",
+   "specialty": "Ophthalmology",
+   "sub_specialties": [
+    "Retina",
+    "Cataract"
+   ],
+   "conditions": [
+    "eye pain",
+    "blurred vision",
+    "cataract",
+    "diabetic retinopathy",
+    "red eye"
+   ],
+   "qualifications": "MBBS, MS (Ophthalmology)",
+   "experience_years": 18,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Riverside Hospital",
+   "rating": 4.3,
+   "review_count": 601,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D166",
+   "name": "Dr. Ananya Reddy",
+   "specialty": "Urology",
+   "sub_specialties": [
+    "Endourology",
+    "Andrology"
+   ],
+   "conditions": [
+    "frequent urination",
+    "urinary infection",
+    "burning urination",
+    "kidney stones",
+    "prostate"
+   ],
+   "qualifications": "MBBS, MS, MCh",
+   "experience_years": 26,
+   "languages": [
+    "English",
+    "Punjabi",
+    "Hindi"
+   ],
+   "city": "Delhi",
+   "hospital": "Lotus Medical Centre",
+   "rating": 4.7,
+   "review_count": 354,
+   "fee": 1800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D167",
+   "name": "Dr. Varun Agarwal",
+   "specialty": "Urology",
+   "sub_specialties": [
+    "Andrology",
+    "Endourology"
+   ],
+   "conditions": [
+    "burning urination",
+    "kidney stones",
+    "prostate",
+    "frequent urination"
+   ],
+   "qualifications": "MBBS, MS, MCh",
+   "experience_years": 14,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Cedar Medical Centre",
+   "rating": 4.1,
+   "review_count": 887,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D168",
+   "name": "Dr. Kavya Bhat",
+   "specialty": "Urology",
+   "sub_specialties": [
+    "Andrology",
+    "Endourology"
+   ],
+   "conditions": [
+    "frequent urination",
+    "urinary infection",
+    "prostate",
+    "kidney stones"
+   ],
+   "qualifications": "MBBS, MS, MCh",
+   "experience_years": 32,
+   "languages": [
+    "English",
+    "Marathi",
+    "Hindi"
+   ],
+   "city": "Pune",
+   "hospital": "Green Valley Multispeciality Hospital",
+   "rating": 4.4,
+   "review_count": 629,
+   "fee": 1300,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D169",
+   "name": "Dr. Rahul Kulkarni",
+   "specialty": "Urology",
+   "sub_specialties": [
+    "Endourology",
+    "Andrology"
+   ],
+   "conditions": [
+    "frequent urination",
+    "kidney stones",
+    "urinary infection",
+    "prostate",
+    "burning urination"
+   ],
+   "qualifications": "MBBS, MS, MCh",
+   "experience_years": 28,
+   "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+   ],
+   "city": "Delhi",
+   "hospital": "Meadow Health Centre",
+   "rating": 4.6,
+   "review_count": 345,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D170",
+   "name": "Dr. Varun Verma",
+   "specialty": "Urology",
+   "sub_specialties": [
+    "Andrology"
+   ],
+   "conditions": [
+    "burning urination",
+    "kidney stones",
+    "urinary infection",
+    "prostate"
+   ],
+   "qualifications": "MBBS, MS, MCh",
+   "experience_years": 20,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Green Valley Clinic",
+   "rating": 4.5,
+   "review_count": 164,
+   "fee": 400,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D171",
+   "name": "Dr. Nandini Menon",
+   "specialty": "Urology",
+   "sub_specialties": [
+    "Andrology",
+    "Endourology"
+   ],
+   "conditions": [
+    "urinary infection",
+    "burning urination",
+    "kidney stones",
+    "prostate",
+    "frequent urination"
+   ],
+   "qualifications": "MBBS, MS, MCh",
+   "experience_years": 24,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Silver Oak Medical Centre",
+   "rating": 4.5,
+   "review_count": 814,
+   "fee": 1800,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D172",
+   "name": "Dr. Venkat Deshpande",
+   "specialty": "Urology",
+   "sub_specialties": [
+    "Andrology"
+   ],
+   "conditions": [
+    "frequent urination",
+    "urinary infection",
+    "kidney stones",
+    "burning urination"
+   ],
+   "qualifications": "MBBS, MS, MCh",
+   "experience_years": 12,
+   "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Green Valley Medical Centre",
+   "rating": 4.4,
+   "review_count": 276,
+   "fee": 400,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D173",
+   "name": "Dr. Shruti Chatterjee",
+   "specialty": "Nephrology",
+   "sub_specialties": [
+    "Dialysis",
+    "Transplant Nephrology"
+   ],
+   "conditions": [
+    "kidney stones",
+    "swelling",
+    "kidney disease",
+    "high creatinine",
+    "proteinuria",
+    "dialysis"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 4,
+   "languages": [
+    "English",
+    "Urdu",
+    "Hindi",
+    "Telugu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Harmony Medical Centre",
+   "rating": 4.5,
+   "review_count": 694,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D174",
+   "name": "Dr. Kavya Naidu",
+   "specialty": "Nephrology",
+   "sub_specialties": [
+    "Transplant Nephrology",
+    "Dialysis"
+   ],
+   "conditions": [
+    "dialysis",
+    "swelling",
+    "kidney stones",
+    "kidney disease",
+    "proteinuria",
+    "high creatinine"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 3,
+   "languages": [
+    "English",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Silver Oak Health Centre",
+   "rating": 4.4,
+   "review_count": 40,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D175",
+   "name": "Dr. Imran Agarwal",
+   "specialty": "Nephrology",
+   "sub_specialties": [
+    "Dialysis"
+   ],
+   "conditions": [
+    "swelling",
+    "kidney stones",
+    "proteinuria",
+    "kidney disease"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 27,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Riverside Medical Centre",
+   "rating": 4.1,
+   "review_count": 749,
+   "fee": 1300,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D176",
+   "name": "Dr. Vikram Mehta",
+   "specialty": "Nephrology",
+   "sub_specialties": [
+    "Transplant Nephrology"
+   ],
+   "conditions": [
+    "proteinuria",
+    "swelling",
+    "dialysis",
+    "kidney stones",
+    "high creatinine"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 20,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Riverside Health Centre",
+   "rating": 4.0,
+   "review_count": 752,
+   "fee": 500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Sat"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D177",
+   "name": "Dr. Shruti Saxena",
+   "specialty": "Nephrology",
+   "sub_specialties": [
+    "Transplant Nephrology"
+   ],
+   "conditions": [
+    "proteinuria",
+    "swelling",
+    "kidney disease",
+    "kidney stones",
+    "dialysis"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 12,
+   "languages": [
+    "English",
+    "Marathi"
+   ],
+   "city": "Pune",
+   "hospital": "Bluebell Health Centre",
+   "rating": 4.2,
+   "review_count": 664,
+   "fee": 600,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D178",
+   "name": "Dr. Rohan Sharma",
+   "specialty": "Nephrology",
+   "sub_specialties": [
+    "Dialysis",
+    "Transplant Nephrology"
+   ],
+   "conditions": [
+    "swelling",
+    "high creatinine",
+    "kidney stones",
+    "proteinuria"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 6,
+   "languages": [
+    "English",
+    "Marathi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Green Valley Medical Centre",
+   "rating": 4.4,
+   "review_count": 273,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D179",
+   "name": "Dr. Nandini Bhat",
+   "specialty": "Oncology",
+   "sub_specialties": [
+    "Radiation Oncology"
+   ],
+   "conditions": [
+    "cancer",
+    "lump",
+    "chemotherapy",
+    "breast lump",
+    "tumor",
+    "unexplained weight loss"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 27,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Sunrise Multispeciality Hospital",
+   "rating": 4.3,
+   "review_count": 86,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D180",
+   "name": "Dr. Lakshmi Rao",
+   "specialty": "Oncology",
+   "sub_specialties": [
+    "Medical Oncology",
+    "Surgical Oncology"
+   ],
+   "conditions": [
+    "tumor",
+    "chemotherapy",
+    "breast lump",
+    "unexplained weight loss",
+    "lump"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 21,
+   "languages": [
+    "English",
+    "Urdu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Harmony Hospital",
+   "rating": 4.4,
+   "review_count": 382,
+   "fee": 1100,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D181",
+   "name": "Dr. Vikram Mishra",
+   "specialty": "Oncology",
+   "sub_specialties": [
+    "Medical Oncology"
+   ],
+   "conditions": [
+    "chemotherapy",
+    "cancer",
+    "breast lump",
+    "lump",
+    "unexplained weight loss",
+    "tumor"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 11,
+   "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Harmony Hospital",
+   "rating": 4.1,
+   "review_count": 805,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D182",
+   "name": "Dr. Pooja Saxena",
+   "specialty": "Oncology",
+   "sub_specialties": [
+    "Surgical Oncology"
+   ],
+   "conditions": [
+    "breast lump",
+    "tumor",
+    "unexplained weight loss",
+    "lump"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 3,
+   "languages": [
+    "English",
+    "Urdu",
+    "Telugu",
+    "Hindi"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Harmony Multispeciality Hospital",
+   "rating": 4.0,
+   "review_count": 514,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D183",
+   "name": "Dr. Lakshmi Khan",
+   "specialty": "Oncology",
+   "sub_specialties": [
+    "Radiation Oncology",
+    "Medical Oncology"
+   ],
+   "conditions": [
+    "chemotherapy",
+    "lump",
+    "cancer",
+    "unexplained weight loss"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 19,
+   "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Bluebell Hospital",
+   "rating": 4.3,
+   "review_count": 684,
+   "fee": 500,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D184",
+   "name": "Dr. Amit Saxena",
+   "specialty": "Oncology",
+   "sub_specialties": [
+    "Surgical Oncology"
+   ],
+   "conditions": [
+    "breast lump",
+    "tumor",
+    "unexplained weight loss",
+    "cancer"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 18,
+   "languages": [
+    "English",
+    "Tamil",
+    "Hindi",
+    "Kannada"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Green Valley Medical Centre",
+   "rating": 4.1,
+   "review_count": 631,
+   "fee": 500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D185",
+   "name": "Dr. Siddharth Kapoor",
+   "specialty": "Oncology",
+   "sub_specialties": [
+    "Medical Oncology",
+    "Surgical Oncology"
+   ],
+   "conditions": [
+    "tumor",
+    "unexplained weight loss",
+    "chemotherapy",
+    "cancer"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 9,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Delhi",
+   "hospital": "Lotus Medical Centre",
+   "rating": 4.1,
+   "review_count": 199,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Wed",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D186",
+   "name": "Dr. Amit Chatterjee",
+   "specialty": "Rheumatology",
+   "sub_specialties": [
+    "Autoimmune Disease"
+   ],
+   "conditions": [
+    "joint swelling",
+    "joint pain",
+    "ankylosing spondylitis",
+    "lupus",
+    "gout"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 17,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Northstar Health Centre",
+   "rating": 4.4,
+   "review_count": 250,
+   "fee": 1200,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D187",
+   "name": "Dr. Isha Chatterjee",
+   "specialty": "Rheumatology",
+   "sub_specialties": [
+    "Autoimmune Disease"
+   ],
+   "conditions": [
+    "gout",
+    "joint pain",
+    "rheumatoid arthritis",
+    "lupus"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 6,
+   "languages": [
+    "English",
+    "Hindi",
+    "Urdu",
+    "Telugu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Lotus Health Centre",
+   "rating": 4.2,
+   "review_count": 836,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D188",
+   "name": "Dr. Sneha Joshi",
+   "specialty": "Rheumatology",
+   "sub_specialties": [
+    "Autoimmune Disease"
+   ],
+   "conditions": [
+    "rheumatoid arthritis",
+    "ankylosing spondylitis",
+    "joint swelling",
+    "lupus"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 10,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Sunrise Clinic",
+   "rating": 4.2,
+   "review_count": 124,
+   "fee": 600,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D189",
+   "name": "Dr. Zoya Nair",
+   "specialty": "Rheumatology",
+   "sub_specialties": [
+    "Autoimmune Disease"
+   ],
+   "conditions": [
+    "lupus",
+    "joint swelling",
+    "gout",
+    "joint pain"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 11,
+   "languages": [
+    "English",
+    "Urdu",
+    "Hindi"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Bluebell Medical Centre",
+   "rating": 4.6,
+   "review_count": 690,
+   "fee": 500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Thu",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D190",
+   "name": "Dr. Anjali Agarwal",
+   "specialty": "Rheumatology",
+   "sub_specialties": [
+    "Autoimmune Disease"
+   ],
+   "conditions": [
+    "ankylosing spondylitis",
+    "rheumatoid arthritis",
+    "joint swelling",
+    "gout",
+    "joint pain"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 28,
+   "languages": [
+    "English",
+    "Hindi",
+    "Punjabi"
+   ],
+   "city": "Delhi",
+   "hospital": "Silver Oak Medical Centre",
+   "rating": 4.4,
+   "review_count": 638,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D191",
+   "name": "Dr. Ritu Bhat",
+   "specialty": "Hematology",
+   "sub_specialties": [
+    "Clinical Hematology"
+   ],
+   "conditions": [
+    "thalassemia",
+    "bleeding disorder",
+    "anemia",
+    "low platelets",
+    "low hemoglobin"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 8,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Indore",
+   "hospital": "Harmony Medical Centre",
+   "rating": 4.4,
+   "review_count": 176,
+   "fee": 500,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D192",
+   "name": "Dr. Vikram Iyer",
+   "specialty": "Hematology",
+   "sub_specialties": [
+    "Clinical Hematology"
+   ],
+   "conditions": [
+    "bleeding disorder",
+    "low hemoglobin",
+    "thalassemia",
+    "anemia",
+    "low platelets"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 3,
+   "languages": [
+    "English",
+    "Urdu",
+    "Telugu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Silver Oak Medical Centre",
+   "rating": 4.2,
+   "review_count": 124,
+   "fee": 500,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D193",
+   "name": "Dr. Venkat Khan",
+   "specialty": "Hematology",
+   "sub_specialties": [
+    "Clinical Hematology"
+   ],
+   "conditions": [
+    "low platelets",
+    "thalassemia",
+    "bleeding disorder",
+    "anemia",
+    "low hemoglobin"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 11,
+   "languages": [
+    "English",
+    "Hindi"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Riverside Hospital",
+   "rating": 4.4,
+   "review_count": 240,
+   "fee": 700,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D194",
+   "name": "Dr. Sneha Khan",
+   "specialty": "Hematology",
+   "sub_specialties": [
+    "Clinical Hematology"
+   ],
+   "conditions": [
+    "low hemoglobin",
+    "low platelets",
+    "thalassemia",
+    "bleeding disorder",
+    "anemia"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 12,
+   "languages": [
+    "English",
+    "Marathi",
+    "Hindi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Northstar Medical Centre",
+   "rating": 4.1,
+   "review_count": 262,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D195",
+   "name": "Dr. Sneha Naidu",
+   "specialty": "Hematology",
+   "sub_specialties": [
+    "Clinical Hematology"
+   ],
+   "conditions": [
+    "anemia",
+    "low platelets",
+    "low hemoglobin",
+    "bleeding disorder",
+    "thalassemia"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 6,
+   "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+   ],
+   "city": "Pune",
+   "hospital": "Meadow Clinic",
+   "rating": 4.2,
+   "review_count": 783,
+   "fee": 600,
+   "currency": "INR",
+   "available_days": [
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": false,
+   "gender": null
+  },
+  {
+   "id": "D196",
+   "name": "Dr. Suresh Khan",
+   "specialty": "Infectious Disease",
+   "sub_specialties": [
+    "HIV Medicine"
+   ],
+   "conditions": [
+    "covid",
+    "persistent fever",
+    "tuberculosis",
+    "malaria"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 19,
+   "languages": [
+    "English",
+    "Marathi"
+   ],
+   "city": "Pune",
+   "hospital": "Sunrise Hospital",
+   "rating": 4.5,
+   "review_count": 348,
+   "fee": 1000,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Wed",
+    "Thu",
+    "Fri",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D197",
+   "name": "Dr. Lakshmi Deshpande",
+   "specialty": "Infectious Disease",
+   "sub_specialties": [
+    "HIV Medicine",
+    "Tropical Medicine"
+   ],
+   "conditions": [
+    "covid",
+    "typhoid",
+    "persistent fever",
+    "malaria",
+    "tuberculosis"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 13,
+   "languages": [
+    "English",
+    "Telugu",
+    "Urdu"
+   ],
+   "city": "Hyderabad",
+   "hospital": "Cedar Medical Centre",
+   "rating": 4.6,
+   "review_count": 753,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D198",
+   "name": "Dr. Amit Sharma",
+   "specialty": "Infectious Disease",
+   "sub_specialties": [
+    "HIV Medicine"
+   ],
+   "conditions": [
+    "malaria",
+    "persistent fever",
+    "typhoid",
+    "covid",
+    "tuberculosis"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 7,
+   "languages": [
+    "English",
+    "Tamil",
+    "Telugu"
+   ],
+   "city": "Chennai",
+   "hospital": "Riverside Medical Centre",
+   "rating": 3.9,
+   "review_count": 848,
+   "fee": 800,
+   "currency": "INR",
+   "available_days": [
+    "Mon",
+    "Tue",
+    "Wed",
+    "Thu",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D199",
+   "name": "Dr. Nandini Gupta",
+   "specialty": "Infectious Disease",
+   "sub_specialties": [
+    "Tropical Medicine",
+    "HIV Medicine"
+   ],
+   "conditions": [
+    "typhoid",
+    "persistent fever",
+    "malaria",
+    "covid"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 20,
+   "languages": [
+    "English",
+    "Tamil",
+    "Kannada",
+    "Hindi"
+   ],
+   "city": "Bengaluru",
+   "hospital": "Harmony Clinic",
+   "rating": 4.5,
+   "review_count": 514,
+   "fee": 1500,
+   "currency": "INR",
+   "available_days": [
+    "Wed",
+    "Thu",
+    "Fri"
+   ],
+   "teleconsult": true,
+   "gender": null
+  },
+  {
+   "id": "D200",
+   "name": "Dr. Siddharth Kapoor",
+   "specialty": "Infectious Disease",
+   "sub_specialties": [
+    "HIV Medicine",
+    "Tropical Medicine"
+   ],
+   "conditions": [
+    "dengue",
+    "malaria",
+    "typhoid",
+    "covid"
+   ],
+   "qualifications": "MBBS, MD, DM",
+   "experience_years": 30,
+   "languages": [
+    "English",
+    "Hindi",
+    "Marathi"
+   ],
+   "city": "Mumbai",
+   "hospital": "Silver Oak Health Centre",
+   "rating": 4.6,
+   "review_count": 292,
+   "fee": 1800,
+   "currency": "INR",
+   "available_days": [
+    "Tue",
+    "Thu",
+    "Fri",
+    "Sat",
+    "Sun"
+   ],
+   "teleconsult": true,
+   "gender": null
+  }
+ ]
+}
