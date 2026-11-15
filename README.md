@@ -307,6 +307,10 @@ Run the tests:
 **Backend:** FastAPI · Pydantic · httpx · asyncpg · SQLAlchemy (for migrations) · Alembic · PostgreSQL 16
 **Frontend:** Next.js 16 · React 19 · TypeScript · react-markdown
 
+## Contributing
+
+Contributions are welcome! `main` is protected, so open a pull request from a separate branch. See **[CONTRIBUTING.md](CONTRIBUTING.md)** for the workflow and guidelines.
+
 ## License & model terms
 
 MedGemma is subject to Google's [Health AI Developer Foundations terms of use](https://developers.google.com/health-ai-developer-foundations/terms). Make sure your use complies with them.
